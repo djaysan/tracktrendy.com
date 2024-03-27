@@ -5,7 +5,7 @@
             <title>Sign in - Matomo</title>
             <meta http-equiv="X-UA-Compatible" content="IE=EDGE,chrome=1">
             <meta name="viewport" content="initial-scale=1.0">
-            
+            <meta name="generator" content="Matomo - free/libre analytics platform">
             <meta name="description" content="free/libre analytics platform">
             <meta name="apple-itunes-app" content="app-id=737216887">
             <meta name="google" content="notranslate">
@@ -87,7 +87,7 @@ if (typeof(piwik_translations) == 'undefined') { var piwik_translations = new Ob
     </div>
 
     <form action="?module=Signup" name="signup_form" id="signup_form" method="post" ng-non-bindable>
-        <input type="hidden" name="nonce" id="signup_form_nonce" value="bf4f30c8a8a9d0963d1998f85517e6e0">
+        <input type="hidden" name="nonce" id="signup_form_nonce" value="f121e349aed1b2c47681fc1c12213aeb">
         <div class="row">
             <div class="col s12 input-field">
                 <input type="text" name="login" id="signup_form_login" class="input" required size="20" autocorrect="off" autocapitalize="none" tabindex="10">
@@ -183,7 +183,7 @@ if (typeof(piwik_translations) == 'undefined') { var piwik_translations = new Ob
 
                     <div class="row">
                         <div class="col s12 input-field">
-                            <input type="hidden" name="form_nonce" id="login_form_nonce" value="2460f70563cb799892cfdd79ee721bf3">
+                            <input type="hidden" name="form_nonce" id="login_form_nonce" value="9ee215b531f98560f52914eed052f951">
                             <input type="hidden" name="form_redirect" id="login_form_redirect" value="">
                             <input type="password" placeholder="" name="form_password" id="login_form_password" class="input" value="" size="20" autocorrect="off" autocapitalize="none" spellcheck="false" tabindex="20">
                             <label for="login_form_password"><i class="icon-locked icon"></i> Password</label>
@@ -228,7 +228,7 @@ if (typeof(piwik_translations) == 'undefined') { var piwik_translations = new Ob
                 <form id="reset_form" method="post" ng-non-bindable>
                     <div class="row">
                         <div class="col s12 input-field">
-                            <input type="hidden" name="form_nonce" id="reset_form_nonce" value="2460f70563cb799892cfdd79ee721bf3">
+                            <input type="hidden" name="form_nonce" id="reset_form_nonce" value="9ee215b531f98560f52914eed052f951">
                             <input type="text" placeholder="" name="form_login" id="reset_form_login" class="input" value="" size="20" autocorrect="off" autocapitalize="none" tabindex="10">
                             <label for="reset_form_login"><i class="icon-user icon"></i> Username or e-mail</label>
                         </div>
