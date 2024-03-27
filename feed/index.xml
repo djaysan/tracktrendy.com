@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TrackTrendy</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Dec 2023 23:46:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/08/tracktrendy-fav-01-150x150.png</url>
+	<title>TrackTrendy</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What does Google know about me?</title>
+		<link>/what-does-google-know-about-me/</link>
+					<comments>/what-does-google-know-about-me/#respond</comments>
+		
+		<dc:creator><![CDATA[TrackTrendy]]></dc:creator>
+		<pubDate>Mon, 04 Dec 2023 22:49:37 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/what-does-google-know-about-me/</guid>
+
+					<description><![CDATA[There’s a lot of us who use Google as part of our daily lives, but how much do they know about us? What information do they record and what do we have to hide? There’s a lot of us who use Google as part of our daily lives, but how much do they know about [...]]]></description>
+										<content:encoded><![CDATA[<p><em>There’s a lot of us who use Google as part of our daily lives, but how much do they know about us? What information do they record and what do we have to hide?</em></p>
+<div>
+<p>There’s a lot of us who use Google as part of our daily lives, but how much do they know about us? What information do they record and what do we have to hide?</p>
+<p>Then what steps can we take to manage what they know about us and our online safety, if we so choose.</p>
+<p>Google is much more than a search engine so here’s how you can find out what they know about you. And help on how to control your privacy and the data you share.</p>
+<p>Imagine if every time you use your computer, there’s a person standing over your shoulder, writing down everything you search for (including when you embarrassingly searched for &#8220;do cars run out of honk?&#8221;).</p>
+<p>Oh, and that person then keeps those records forever.</p>
+<p>Then, after you&#8217;ve finished searching for things, that person keeps standing over your shoulder, watching you as you visit 86% of the websites you&#8217;re clicking around on.</p>
+<p>Each time you visit a site with an advertisement, the person notes that you&#8217;ve seen that ad (and if you&#8217;ve clicked it). They also pay special attention to the videos you watch on Youtube.</p>
+<p>You decide enough is enough and turn on incognito mode in Chrome and try to block their view of your screen… it doesn&#8217;t help, and they keep watching you and your computer.</p>
+<p>You&#8217;re now getting a little freaked out because this person is… creepy. So you get in your car, punch an address into maps, and head out. But that person is somehow now in your back seat, noting your location and all the stops you make.</p>
+<p>You go home because this is getting just plain spooky.</p>
+<p>You hop onto your Android phone to use a few apps, and there they are again, with their little notepad, keeping track of what apps you open and who (and what) you text.</p>
+<p>You notice this person making notes when you walk past your doorbell camera, your backyard camera. They make notes when you send emails and even when you&#8217;re adding to your schedule in your calendar. They see photos on your phone, even the ones you&#8217;ve deleted, and make sure they&#8217;ve noted what the photos were of.</p>
+<p>Unfortunately, this is not a scary story for Halloween. This is the daily reality for too many of us. And, unless we do something about, this creepiness will continue.</p>
+<h2 id="this-creeper-is-named-google">This creeper is named Google</h2>
+<p>Google is one of the biggest tech companies on the planet. They&#8217;re not a search engine company (not anymore). They&#8217;re a surveillance and data collection company… and we&#8217;re all collectively the product they&#8217;ve decided to monetize.</p>
+<h4 id="google-keeps-a-record-of-the-following">Google keeps a record of the following:</h4>
+<ul>
+<li>Every time we use Google to search for things, including embarrassing (or medical) searches.</li>
+<li>Every time we visit a website, as 86% of websites on the internet use Google Analytics.</li>
+<li>Every time we visit websites with ads on them (as most ads online, especially the ones that follow us around, are Google Ads).</li>
+<li>Every time we use Google Maps or anything with Google Location Services on it.</li>
+<li>Every time we use an app on an Android phone (when we use them and where we use them)</li>
+<li>Every time we leave an Android phone dormant with Chrome running in the background.</li>
+<li>Every time we use Chrome, even in incognito mode.</li>
+<li>Every time we watch videos on Youtube, and what we search for there (Google owns Youtube).</li>
+<li>All our text messages on Android devices (since they aren&#8217;t encrypted)</li>
+<li>All our photos and files on Google Drive (Google Photos), even if we&#8217;ve deleted them.</li>
+<li>If we use Gmail, Google can access all our emails (content included).</li>
+<li>If we use Google Calendar, Google has access to our whole schedule.</li>
+<li>If we use Google Meet, Google has access to every meeting we do.</li>
+<li>If we use Nest cameras, Google can access all our recordings inside and outside our homes and doorbells.</li>
+<li>If we use Google Home devices, they have access to everything we say within &#8220;earshot&#8221; of those devices.</li>
+<li>If we use Nest routers, they have access to everything we do on the internet.</li>
+</ul>
+<p>No doubt so many more things we don&#8217;t even know about yet (i.e. things they haven&#8217;t been caught doing yet).<br />
+If this were a real person invading our privacy in the way Google does, we would call the authorities, and they&#8217;d act (as it&#8217;d no doubt be a criminal offence for a human to spy on another human like this). But with Google, we sometimes willingly (but sometimes unknowingly) let them spy on and track our every move because they give us &#8220;free&#8221; products like Gmail or Google Analytics or YouTube.</p>
+<p>These products are far from free when we pay for them with our data and privacy.</p>
+<h2 id="why-is-google-a-creeper">Why is Google a creeper?</h2>
+<p>But why would Google want all this data about each of us? Surely they wouldn&#8217;t want to be evil about it? Oh, wait…</p>
+<p>Google would never publish or publicize what they specifically do with all the information they have about all of us. But, based on their revenue, we can make some decent guesses.</p>
+<p>Google, as stated above, is a surveillance company. They build these robust profiles about all of us (our likes, dislikes, political leanings, etc.) so they can monetize them. Over 3 million websites and apps have Google Ads on them, and many more companies buy Google Ads with specific criteria for who they want to see those ads. So knowing as much as possible about us is just good business for them in the spying business. They profit, the people who buy the ads profit, and the people who display the ads profit. Everyone profits here except us.</p>
+<p>If it feels creepy, it&#8217;s because it is. We didn&#8217;t opt into this tracking or monetization of our data. We didn&#8217;t ever tell Google it was ok to watch us all the time. And even if it makes a funny Halloween costume, we just assumed they wouldn&#8217;t be evil about what they do with all our data.</p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/bigtechcreeper.jpg" alt="Big Tech Halloween costume" /></p>
+<h2 id="but-what-if-i-dont-have-anything-to-hide">But what if I don&#8217;t have anything to hide?</h2>
+<p>Some have argued that they aren&#8217;t concerned that Google knows what type of cat food they buy, what Marvel movies they don&#8217;t like, or they&#8217;re re-routed while on the way to the grocery store.<br />
+If you do nothing illegal, you have nothing to hide, right?<br />
+While this seems like logical reasoning, it&#8217;s entirely flawed (and dangerous).</p>
+<p>Privacy isn&#8217;t about hiding things we do that are wrong. Privacy is about all of us having control over what we want to be public and what we want to keep private.</p>
+<p>And, even if we aren&#8217;t doing anything wrong, should a company be allowed to follow us around the internet and profit from it (without cutting us in on some money too, or asking if it was ok to do it)?</p>
+<p>If law enforcement wanted to enter your house, go through your stuff or spy on you, they&#8217;d need a warrant from a neutral (financially impartial) judge. If a tech company does it, there&#8217;s nothing required. Even when we think we&#8217;re being private, like using incognito mode, they&#8217;re still spying on us.</p>
+<p>If Big Tech companies wanted this data, they should, at the very least, have to ask for it (and it shouldn&#8217;t be that we’re collectively all opted-in by default). And, if a few of us agree to be tracked, we should have some financial incentives for letting them watch us (Big Tech companies make billions from our data, after all).</p>
+<p>It’s always helpful to know what data anyone is tracking so here are 3 resources to check what Google knows about you and one if all that information has tipped you to wanting to opt-out.</p>
+<ul>
+<li>Google’s support article on your data</li>
+<li>Safety.google</li>
+<li>Export all your data from Google</li>
+<li>Google Analytics opt-out Chrome Extension if you’d like to opt-out.</li>
+</ul>
+<h2 id="how-do-we-take-control-of-our-privacy-back">How do we take control of our privacy back?</h2>
+<p>&#8220;Short of chucking your phone into the river, shunning the internet, and learning to reread paper maps, there&#8217;s not much you can do to keep Google from collecting data about you.&#8221;Professor Douglas Schmidt, Vanderbilt University<br />
+Professor Schmidt is correct that it can be challenging to get away from Sauron&#8217;s Google&#8217;s watchful eye, but he&#8217;s wrong in that it&#8217;s not impossible to do so.</p>
+<p>Although Big Tech companies like to think they&#8217;re monopolies (and they certainly do all they can to be and stay monopolies), there are other options. Especially in recent years with an influx of alternatives.</p>
+<p>You can obviously make your website a black hole to Big Tech by removing Google Analytics and switching to Fathom Analytics. But we can do a lot more to deGoogle our lives.</p>
+<p>Let&#8217;s go through all the points above where Google spies on us and look at some privacy-focused alternatives:</p>
+<ul>
+<li>We use a privacy-focused search engine like DuckDuckGo.</li>
+<li>We can use a privacy-focused website analytics company like Fathom Analytics (hey, that&#8217;s us!)</li>
+<li>We can buy contextual ads instead of personal information-based ads. I.e. showing an ad based on what&#8217;s on the page, not based on who the person is looking at the page.</li>
+<li>We can use maps that don&#8217;t track us, like HERE WeGo.</li>
+<li>We can not use Android phones or install an OS that&#8217;s de-Googled like GrapheneOS.</li>
+<li>We can use a privacy-focused browser like Firefox.</li>
+<li>Every time we watch videos on Youtube, we can do it through Duck Player.</li>
+<li>We can message on encrypted platforms, like Signal.</li>
+<li>We can store photos or files on encrypted software like Tresorit or Sync.</li>
+<li>We use Fastmail or Protonmail for mail and calendars.</li>
+<li>We can use WhereBy for secure meetings.</li>
+<li>We can build home security systems that aren&#8217;t connected to the cloud or, at the very least, are encrypted.</li>
+<li>We can not use &#8220;smart&#8221; speakers (and just be old-fashioned by looking things up on our tiny pocket computers)</li>
+<li>We can use a VPN to mask our internet browsing, like ProtonVPN.</li>
+</ul>
+<p>And amazingly, the list of privacy-focused, Google alternatives gets larger all the time.</p>
+<p>Unmistakably, we have a vested interest in promoting Fathom Analytics since it&#8217;s our company, and we do so because we feel strongly about the transparent measures we take to ensure the privacy of visitors who visit websites with our script installed. But for all the rest of the above suggestions, we have no financial incentives to promote them &#8211; and mostly, they&#8217;re what we use personally to stay deGoogled, and privacy-focused in our own daily lives.</p>
+<p>Google isn&#8217;t the only bad actor here, either. Most Big Tech companies with no apparent business model (most social media networks) rely on watching us and selling that data to generate revenue. You could easily replace the scenario at the start with Amazon or Facebook to some degree. But it’s worth calling Google out as they’ve perhaps penetrated the furthest into surveillance capitalism.</p>
+<p>The point is that we&#8217;ve been spied on for too long. Our privacy has been violated, and we haven&#8217;t permitted these companies to do so. Heck, they didn&#8217;t even offer us monetary compensation for our data!</p>
+<p>So let&#8217;s take our privacy back. Let&#8217;s consider software with more transparent business models (i.e. paying for a product instead of being the product). Let&#8217;s support companies who put our privacy first and don&#8217;t bury how they&#8217;ll get around it in lengthy terms and conditions.</p>
+<p>PS: To answer your embarrassing question about a car running out of honk (without violating your privacy to find the answer): it’s possible. If a honk draws about 5 amps of power off a normal car battery, it’d take about 3 days to draw down that battery fully and not have enough juice to power the horn any longer.</p>
+<p>Note: this is not legal advice and Fathom Analytics <u>does not ever</u> suggest or condone honking for 3 days straight.</p>
+<h3 id="you-might-also-enjoy-reading">You might also enjoy reading:</h3>
+<ul>
+<li>Your website analytics are breaking the law</li>
+<li>The problem with data brokers: targeted ads and your privacy</li>
+<li>Is Big Tech actually a big problem?</li>
+</ul>
+<div>
+<p>Paul Jarvis is the co-founder of Fathom Analytics and the co-host of the Above Board podcast.</p>
+</div>
+<div>Posted in opinion</div>
+</div>
+<p class="wpss_copy">Content retrieved from: <a href="https://usefathom.com/blog/what-google-knows" target="_blank" rel="noopener">https://usefathom.com/blog/what-google-knows</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/what-does-google-know-about-me/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Delete Google Analytics Account</title>
+		<link>/how-to-delete-google-analytics-account/</link>
+					<comments>/how-to-delete-google-analytics-account/#respond</comments>
+		
+		<dc:creator><![CDATA[TrackTrendy]]></dc:creator>
+		<pubDate>Mon, 27 Nov 2023 22:48:58 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/how-to-delete-google-analytics-account/</guid>
+
+					<description><![CDATA[Tired of Google Analytics and looking for a change? Learn how to delete Google Analytics account entirely by following these steps. Many things have been said about Google Analytics lately. Moving from UA to GA4 is now necessary for all users, and although not all of us are on board with this decision, Google leaves [...]]]></description>
+										<content:encoded><![CDATA[<p><em>Tired of Google Analytics and looking for a change? Learn how to delete Google Analytics account entirely by following these steps.</em></p>
+<div>
+<p><strong>Many things have been said about Google Analytics lately</strong>. Moving from UA to GA4 is now necessary for all users, and although not all of us are on board with this decision, Google leaves many no alternative.</p>
+<p>Well, perhaps there is one alternative: learn <strong>how to delete Google Analytics account</strong>, and say goodbye to all the headaches related to Google Analytics tools.</p>
+<p>This guide will show you precisely that, and worry not &#8211; you can always use Fathom Analytics Google Analytics Importer to have a fresh, private, and safe start once again.</p>
+<h2 id="3-common-google-analytics-deletion-questions-and-answers">3 Common Google Analytics Deletion Questions and Answers</h2>
+<p>Google Analytics has been <strong>widely criticized for the way it handles user data</strong> within its tool.</p>
+<p>Besides, common Google Analytics problems can pop up from time to time (such as when Google Analytics not showing data), and it is up to us to <em>address these issues.</em></p>
+<p>Therefore, if you want to <strong>delete your entire Google Analytics account</strong>, you need to be aware of a few details.</p>
+<h3 id="1-what-happens-when-i-delete-my-google-analytics-account">1. What Happens When I Delete My Google Analytics Account?</h3>
+<p>When you delete a Google Analytics account, all the information and historical data stored on the account will be <strong>permanently deleted 35 days</strong> after the initial deletion date.</p>
+<p>This means that data streams, users, website information, traffic insights, and all the properties related to that Google Analytics account will <strong>completely disappear after 35 days</strong>.</p>
+<p>If more than 35 days pass and you want to restore a certain account, note that your old data will be gone, but you can open a new GA4 account and start from scratch.</p>
+<h3 id="2-can-i-restore-a-deleted-google-analytics-account">2. Can I Restore a Deleted Google Analytics Account?</h3>
+<p>Yes &#8211; you can <strong>entirely restore a deleted Google Analytics</strong> account only if you do so up to 35 days after the initial deletion date.</p>
+<p>As you know, you are not limited to just one account on GA4 &#8211; you can have multiple accounts at once if you want. Therefore, if you initially want to delete a complete GA account, but then want to restore it, you can log in to your GA account, go to the Trash Can, and restore it.</p>
+<p>Depending on your location, the <em>Trash Can might be referred to as Rubbish Bin.</em></p>
+<p><strong>Monthly data backups will be deleted after 84 days</strong>. The Trash Can helps website owners to access website data during this time frame in case it is necessary to do so.</p>
+<p>Learn more about the GA Trash Can here.</p>
+<h3 id="3-is-deleting-google-analytics-property-the-same-as-deleting-google-analytics-account">3. Is Deleting Google Analytics Property the Same as Deleting Google Analytics Account?</h3>
+<p>No, deleting a GA Property and a GA Account is not the same thing. When you delete an account property, you are trashing each data stream, web view, and user access to certain <strong>Google Analytics Properties.</strong></p>
+<p>You can still keep multiple properties with multiple views at the same time, so nothing “drastic” will happen if you, as a website owner, decide to delete just one Google Analytics property.</p>
+<p>On the other hand, <strong>deleting a Google Analytics Account will delete absolutely everything:</strong> user access, properties, data stream, and all the views related to it.</p>
+<p>As it happens with GA account deletion, deleted properties will <strong>pass through the Trash Can</strong> before getting entirely deleted. The only difference is that monthly data backups will be deleted after 35 days instead of 84.</p>
+<h2 id="how-to-delete-google-analytics-property">How To Delete Google Analytics Property</h2>
+<p>If you don’t want to delete your entire GA data just yet, then you can <strong>simply delete individual properties.</strong></p>
+<p>All your properties will be shown inside the Admin Section of GA4, specifically, in the Property Column.</p>
+<p>Keep in mind that only users who have at least <strong>Editor Role</strong> can delete Google Analytics properties.</p>
+<p>In order to assign editor roles, go to the Manage Users option using a proper account (admin account) and assign roles accordingly. Without further ado, follow the below steps to delete Google Analytics Properties easily.</p>
+<h3 id="step-1-sign-in-to-google-analytics-and-go-to-the-admin-tab">Step 1: Sign In to Google Analytics and Go to the Admin Tab</h3>
+<p>Sign in to your GA4 account, and go to the <strong>Admin Section</strong> at the bottom left-hand corner of the main panel.</p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/delete-google-analytics-admin-panel-usefathom.com_.jpg" alt="go to admin panel" /></p>
+<h3 id="step-2-open-property-settings-and-select-move-to-trash-can">Step 2: Open Property Settings and Select “Move to Trash Can”</h3>
+<p>Here, you will see many options &#8211; <strong>click “Property Settings”</strong> and continue.</p>
+<p>You will see all your properties, and two options at the top right corner of the screen: Move Property, and Move to Trash.</p>
+<p>Select <strong>Move to Trash Can</strong>, and move on.</p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/ga-property-settings-move-to-trash-can-usefathom.com_.jpg" alt="move google analytics property to trash can" /></p>
+<h3 id="step-3-click-on-move-to-trash">Step 3: Click On “Move to Trash”</h3>
+<p>Google will inform you that the property will be moved straight into the trash can, or “rubbish bin” (if you live in England, for example).</p>
+<p>Confirm the website name (mostly if you have multiple websites)**, click on “Move to Trash,” and the property will be deleted.**</p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/confirm-delete-google-analytics-property-usefathom.com_.jpg" alt="confirm to delete ga property" /></p>
+<p>Now, you need to <strong>wait for the Final Deletion date to arrive</strong>, so the account property gets entirely deleted.</p>
+<p>From here, it is necessary to wait a total of <strong>35 days</strong> for total GA Property deletion &#8211; this applies to all websites, so it is a standard procedure.</p>
+<h3 id="how-to-restore-google-analytics-property">How to Restore Google Analytics Property</h3>
+<p>In case you want to <strong>recover your deleted account property</strong>, then you can do it by simply going to the trash can.</p>
+<p>Go to the <strong>Admin</strong> section of GA4, and scroll down until you see the <strong>Trash Can option.</strong></p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/google-analytics-trash-can-usefathom.com_.jpg" alt="go to google analytics trash can" /></p>
+<p>Click on Trash Can, and you will see a list of the deleted properties. The list includes the data in which the deletion request was created, and the final deletion date as well.</p>
+<p>Select the property, <strong>click on the Restore button</strong>, and just like that, the property will be up and running again.</p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/restore-google-analytics-property-usefathom.com_.jpg" alt="restore google analytics property" /></p>
+<h2 id="how-to-delete-google-analytics-account">How To Delete Google Analytics Account</h2>
+<p><strong>Deleting an entire Google Analytics account is more drastic:</strong> all your historical data, information, and info, will be gone forever after 35 days.</p>
+<p>You need to have at least one account active in order to properly access your settings via GA4.</p>
+<p>Also note, if you want to delete a Google Analytics account, <strong>you must have the Administrator Role</strong> &#8211; the Editor Role will not be enough. Learn more about the administrator role here.</p>
+<h3 id="step-1-sign-in-to-google-analytics-and-go-to-the-admin-tab">Step 1: Sign in to Google Analytics and Go to the Admin Tab</h3>
+<p>Go to GA4’s login page, and sign in using your account.</p>
+<p>Then, go to the <strong>Admin Tab</strong> once again, and move on to the following step.</p>
+<h3 id="step-2-go-to-account-settings-and-select-move-to-trash-can">Step 2: Go to Account Settings and Select Move to Trash Can</h3>
+<p>Here, <strong>click “Account Settings.”</strong> The account column will show all the accounts you have.</p>
+<p>Find the right account name, and select <strong>“Move to Trash Can.”</strong></p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/move-google-analytics-account-to-trash-usefathom.com_.jpg" alt="move google analytics account to trash" /></p>
+<h3 id="step-3-click-on-trash-account">Step 3: Click on Trash Account</h3>
+<p>Here, <strong>Google will ask you to reconsider your choices:</strong> are you sure that you want to delete your GA account? Don’t you prefer to delete properties instead of the entire account?</p>
+<p>If you are completely sure of your decision, simply <strong>click “Trash Account.”</strong></p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/confirm-delete-google-analytics-account-usefathom.com_.jpg" alt="confirm to delete google analytics account" /></p>
+<p>After 35 days, all your account information will be entirely deleted. All properties, views, data, and more, will be entirely gone after this time frame.</p>
+<p><strong>We recommend you save the most relevant pieces of information</strong>, so you don’t end up regretting your choice.</p>
+<h3 id="how-to-restore-deleted-google-analytics-account">How to Restore Deleted Google Analytics Account</h3>
+<p>After clicking on “Trash Account,” you will get an <strong>email from Google asking you to, once again, reconsider your decisions.</strong></p>
+<p>There, you will find a link that will take you <em>straight to the Trash Can.</em></p>
+<p>If you want to restore your GA account, simply <strong>hit the Restore Option</strong> inside the Trash Can before 35 days pass.</p>
+<p>If you fail to restore your account before 35 days, then there’s nothing that Google can do about it.</p>
+<h2 id="summary-how-to-delete-a-google-analytics-account">Summary: How to Delete a Google Analytics Account</h2>
+<p>Deleting your GA account is fairly easy, and everyone can do it. Let’s make a quick <strong>recap of the steps to follow to delete a GA account:</strong></p>
+<ol>
+<li>Go to the Admin Tab and select Account Settings.</li>
+<li>Select the account that you want to delete, and move it to the trash.</li>
+<li>Confirm your decision, and start the permanent deletion process.</li>
+<li>Save your GA data if necessary &#8211; it will be lost after 35 days.</li>
+<li>Wait for the final deletion date to arrive, and say goodbye to Google Analytics.</li>
+</ol>
+<p>For many, moving from GA4 to another Google Analytics Alternative, such as Fathom Analytics, <em>is the right thing to do.</em></p>
+<p>Fathom Analytics provides you with <strong>great, easy-to-use features and enhanced privacy options</strong> to keep you and your users protected at all times.</p>
+<p>The best part is that replacing GA does not hurt SEO &#8211; let’s forget about Google handling our data, and let’s have a fresh start together.</p>
+<div>
+<p>Paul Jarvis is the co-founder of Fathom Analytics and the co-host of the Above Board podcast.</p>
+</div>
+<div>Posted in how-to</div>
+</div>
+<p class="wpss_copy">Content retrieved from: <a href="https://usefathom.com/blog/delete-google-analytics-account" target="_blank" rel="noopener">https://usefathom.com/blog/delete-google-analytics-account</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-to-delete-google-analytics-account/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What Do Website Analytics Allow You to Do?</title>
+		<link>/what-do-website-analytics-allow-you-to-do/</link>
+					<comments>/what-do-website-analytics-allow-you-to-do/#respond</comments>
+		
+		<dc:creator><![CDATA[TrackTrendy]]></dc:creator>
+		<pubDate>Fri, 03 Nov 2023 22:48:26 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/what-do-website-analytics-allow-you-to-do/</guid>
+
+					<description><![CDATA[Traffic analysis, conversions, user experience… What’s all the fuss about? What do website analytics allow you to do in reality? Learn more here. Competition is fierce in today’s online world, regardless of the industry and nature of your project. Acquiring a strategic advantage will help you be one step ahead of your competitors, and website [...]]]></description>
+										<content:encoded><![CDATA[<p><em>Traffic analysis, conversions, user experience… What’s all the fuss about? What do website analytics allow you to do in reality? Learn more here.</em></p>
+<p><span style="font-size: revert; color: initial; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">Competition is fierce in today’s online world, regardless of the industry and nature of your project.</span></p>
+<div>
+<p>Acquiring a strategic advantage will help you be one step ahead of your competitors, and <strong>website analytics are there to show you the path to follow.</strong></p>
+<p>But <strong>what do website analytics allow you to do?</strong> Let’s dive in and learn more about your new superpower.</p>
+<h2 id="what-are-web-analytics">What Are Web Analytics?</h2>
+<p>Website Analytics is the process of <strong>collecting, measuring and analysing data</strong> related to user behaviour, web performance and usage inside a website.</p>
+<p><strong>This process is performed by website analytics tools</strong>. Most web analytics tools, such as Fathom Analytics, use a tracking code within your website’s structure to collect information that can later provide valuable insights.</p>
+<p>In short, a web analytics tool gathers data related to your web activity, and then this information can be used to <strong>make data-driven decisions</strong>. But <em>what can you do with website analytics?</em></p>
+<h2 id="what-do-website-analytics-allow-you-to-do">What Do Website Analytics Allow You to Do?</h2>
+<p>Web analytics metrics show us all the relevant data points and user interactions that our visitors have with our website.</p>
+<p>Users are <em>the cornerstone</em> of our online projects, and with the help of <strong>website analytics tools</strong>, we can see through their eyes and understand how they see, perceive and act on our site.</p>
+<h3 id="1-identify-popular-pages-content-by-traffic">1. Identify Popular Pages &amp; Content by Traffic</h3>
+<p>One of the most important website analytics parameters is website traffic. You can track visits to websites to consistently understand <strong>how many visitors certain pages get.</strong></p>
+<p>You can use this information to generate timely <strong>reports</strong> about the evolution of your project regarding online traffic.</p>
+<p>Identifying the most popular pages and content of your website determines the efficiency of present and future marketing strategies.</p>
+<p>For instance, pages that don’t get enough visitors could have their content improved to boost traffic, whereas you can “replicate” content strategies on your most visited pages to increase your traffic even more.</p>
+<p>Instead of looking at “website traffic” as a whole, website analytics tools help you understand the strengths and weaknesses of your website pages individually.</p>
+<h3 id="2-check-your-visitors-device-browser">2. Check Your Visitor’s Device &amp; Browser</h3>
+<p>Checking the <strong>device type of your visitors</strong> is important to have a clearer understanding of their user journey.</p>
+<p>More than 60% of online traffic comes through mobile devices. Certain web analytics tools, such as Fathom Analytics, also show you specific metrics related to browser type, which can help you extrapolate data related to your users’ preferred operating system (Safari for iOS, for instance).</p>
+<h3 id="3-see-locations-people-visit-your-website-from">3. See Locations People Visit Your Website From</h3>
+<p>You can also see the country of your visitors and users through website analytics. The data collected by tools shows you if you are successfully getting unique visitors from your <strong>geolocalised target audience.</strong></p>
+<p>Some products, search intents and content target potential customers from <strong>specific countries</strong>, so it is important to pay attention to users’ locations.</p>
+<h3 id="4-see-how-long-people-stay-on-your-site">4. See How Long People Stay On Your Site</h3>
+<p>Metrics such as bounce rate and pageviews per session show you whether unique visitors click on multiple sessions after getting to your site. Other metrics, such as average time on site show you <strong>how long users stay on your website.</strong></p>
+<p>This includes visitor behaviour of both first-time vs returning visitors, and it can help you <strong>understand if your key pages are keeping users engaged or not.</strong></p>
+<p>As a rule of thumb, the more visited pages unique or return visitors have, the more likely they are to contribute to the overall conversion rate.</p>
+<h3 id="5-understand-how-people-discover-or-find-your-website">5. Understand How People Discover or Find Your Website</h3>
+<p>Your traffic sources help you gain insight into <strong>how users find your site online.</strong></p>
+<p>They can also show you your most relevant <strong>referrals</strong> (social media platforms, backlinks from directories, Google’s search engine, and more), acquisition channels, top landing pages, and user behaviour on your site.</p>
+<p>The raw data generated by Fathom Analytics shows you each <strong>traffic source to your website in a more accurate and precise way</strong> than other website analytics tools, such as Google Analytics.</p>
+<h3 id="6-record-button-clicks">6. Record Button Clicks</h3>
+<p>Measuring the efficiency of <strong>calls to action in the form of buttons</strong> shows you what’s working and what isn’t on your website.</p>
+<p>You can track button clicks on Google Analytics, Fathom Analytics, and other web analytics tools as well.</p>
+<p>Placing your buttons on different pages, improving your calls to action, and changing the design of your buttons on mobile and desktop devices are some of the solutions that website analytics help you to follow in case you have fewer button clicks than expected.</p>
+<h3 id="7-track-downloads-on-your-website">7. Track Downloads On Your Website</h3>
+<p>Some calls to action require web owners to track button clicks within their sites.</p>
+<p>If people are <strong>downloading ebooks, files, or programs</strong> on your website, it means that your strategies are working. If not, then there are things to be improved. This can only be known by successfully getting the right data through website analytics.</p>
+<p>A <strong>lack of interest in file downloads</strong> might mean that you are targeting the wrong type of audience, your downloadable files are not what users seek, or there are file download errors on your website. Website analytics help you check what’s happening so you can later improve and boost downloads on your website.</p>
+<h3 id="8-understand-visitor-journey">8. Understand Visitor Journey</h3>
+<p>Visitor journey refers to the experience a person has while using your website.</p>
+<p>Understanding the user journey can help you:</p>
+<ul>
+<li><strong>Improve navigation:</strong> your site’s navigation should have a clear and straightforward path that users can follow without major inconveniences.</li>
+<li><strong>Improve conversions:</strong> your website should have a goal, and your job is to help your visitor achieve it as soon as possible. Understanding visitor journeys can help you <strong>design better funnels</strong> and remove potential friction points.</li>
+<li><strong>Identify potential technical issues:</strong> technical issues, such as broken links or misplaced buttons, have a negative impact on the user journey through your site. Identifying these issues helps you to fix them rapidly.</li>
+</ul>
+<h3 id="9-identify-trends-patterns">9. Identify Trends &amp; Patterns</h3>
+<p>The information provided by website analytics should be <strong>extrapolated to understand the trends and patterns</strong> that take place within your website.</p>
+<p>For example, different types of traffic from certain sources might navigate the site differently than others. Visitors that come from search engines might have different goals (<strong>informational</strong>) than visitors that directly access your site from your commercial newsletter (<strong>transactional</strong>).</p>
+<p>Likewise, some types of content are <strong>more popular among certain demographics</strong>, which creates the need to tailor your content to certain regions instead of all your visitors.</p>
+<p>First-time users might not convert as much as returning users, which has a big impact on their individual user journey through your site.</p>
+<p>Web analytics are useful for <strong>identifying all these patterns</strong> to use this information to your advantage by implementing it into your marketing efforts.</p>
+<h3 id="10-monitor-website-errors-speed">10. Monitor Website Errors &amp; Speed</h3>
+<p>Technical issues within your website <strong>negatively affect</strong> conversion, bounce, and engagement rates between your site and your users.</p>
+<p>It has been proven by Portent that t<strong>he first five seconds of a webpage load-time heavily impact conversion rates.</strong> Identifying slow loading times and fixing them gives you an advantage over slower competitors.</p>
+<p>Moreover, other anomalies, such as <strong>broken links, 404 pages, and faulty buttons,</strong> ruin your visitor’s customer journey, which can make you lose customers.</p>
+<p>Web analytics tools have features to identify these errors so you can fix them as soon as you have a chance.</p>
+<h2 id="how-can-website-analytics-help-your-business">How Can Website Analytics Help Your Business?</h2>
+<p>Website analytics allow you to have a wider understanding of the things that happen on your website.</p>
+<p>If you take a look at the right metrics on web analytics tools, it is possible to <strong>power data-driven marketing campaigns</strong> that help your business grow while surpassing your competitors.</p>
+<p>Let’s see some <strong>actionable ways</strong> in which website analytics can help you unleash the true potential of your big, medium-sized, or small business.</p>
+<h3 id="1-improve-website-performance-and-seo-strategies">1. Improve Website Performance and SEO Strategies</h3>
+<p>An SEO strategy tailored by the data collected by a web analytics tool has <strong>a data-driven advantage</strong> over bland, simple, and generalist strategies.</p>
+<p>Parameters such as <strong>site performance, broken links, traffic from search engines</strong> and other metrics help marketing teams to perfect their calls-to-action and conversion rates based on real, tangible information.</p>
+<p>Ultimately, website analytics show you the direction to improve your site’s SEO as a whole, which focuses on website visitors in <em>an organic way.</em></p>
+<h3 id="2-tailor-your-digital-marketing-efforts">2. Tailor Your Digital Marketing Efforts</h3>
+<p>By analyzing your main traffic sources, it is possible to <strong>improve social media campaigns or different strategies</strong> to get more people to come to your site.</p>
+<p>Key performance indicators (KPIs) show you the <strong>efficiency of different marketing channels</strong>, which is something that can greatly be achieved with the help of a web analytics tool, such as Fathom Analytics.</p>
+<p>There are a few <strong>key metrics</strong> that pave the road ahead for better marketing outcomes, such as bounce rate, returning visitors, conversion rate, average time on site, and more.</p>
+<p>Let’s see a quick example: if you are getting more visitors from Facebook than from Twitter, it makes sense to <em>re-tailor</em> your marketing efforts to Facebook.</p>
+<p>If your newsletter is not bringing enough traffic as expected, it is possible to use this data to <strong>perfect the content of your newsletter</strong> to improve these metrics in the long haul. It’s all about understanding the things that work and the things that don’t.</p>
+<h3 id="3-boost-conversion-rates-and-business-goals">3. Boost Conversion Rates and Business Goals</h3>
+<p>The comprehension of web analytics helps web owners to get the correct answers on how to improve a business’ conversion rate.</p>
+<p>By checking tangible data about <strong>how many people click your buttons, buy your products, download your files or interact with your site’s calls-to-action,</strong> your marketing team can find the best way to boost conversion rates in a way that CTAs satisfy user behaviour.</p>
+<p>This can only be achieved with the help of accurate data provided by web analytics.</p>
+<h2 id="wrapping-up-unlocking-the-potential-of-website-analytics">Wrapping Up: Unlocking the Potential of Website Analytics</h2>
+<p>Web analytics <strong>open the door to countless opportunities</strong> that website owners must learn how to use to their advantage.</p>
+<p>At the end of the day, web analytics tools are <em>just tools</em> &#8211; it’s the analysis and comprehension of data that will help you unlock your site’s true potential.</p>
+<p>But website analytics don’t need to be complicated &#8211; <strong>Fathom Analytics simplifies things for you while also focusing on responsible data collection.</strong></p>
+<h2 id="faq">FAQ</h2>
+<h3 id="are-website-analytics-tools-safe-to-use">Are Website Analytics Tools Safe to Use?</h3>
+<p>Privacy-friendly web analytics tools, such as Fathom Analytics, are safe to use because they <strong>comply with GDPR and European Data Protection Authorities’ regulations</strong>. Nevertheless, the use of widely standardised tools, such as Google Analytics, cannot always be considered as “safe” due to user privacy breaches identified by government authorities.</p>
+<div>
+<p>Paul Jarvis is the co-founder of Fathom Analytics and the co-host of the Above Board podcast.</p>
+</div>
+<div>Posted in learn</div>
+</div>
+<p class="wpss_copy">Content retrieved from: <a href="https://usefathom.com/blog/what-do-website-analytics-allow-you-to-do" target="_blank" rel="noopener">https://usefathom.com/blog/what-do-website-analytics-allow-you-to-do</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/what-do-website-analytics-allow-you-to-do/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Engagement Rate in Google Analytics 4: All You Need To Know</title>
+		<link>/engagement-rate-in-google-analytics-4-all-you-need-to-know/</link>
+					<comments>/engagement-rate-in-google-analytics-4-all-you-need-to-know/#respond</comments>
+		
+		<dc:creator><![CDATA[TrackTrendy]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2023 22:47:48 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/engagement-rate-in-google-analytics-4-all-you-need-to-know/</guid>
+
+					<description><![CDATA[What is engagement rate in Google Analytics 4, you ask? Let’s learn everything about it so we can make the best of this newly integrated event-based metric. The change from Universal Analytics to Google Analytics 4 has brought us brand-new metrics that website owners and marketers now have access to. Back in UA, the main [...]]]></description>
+										<content:encoded><![CDATA[<p><em>What is engagement rate in Google Analytics 4, you ask? Let’s learn everything about it so we can make the best of this newly integrated event-based metric.</em></p>
+<div><span style="font-size: revert; color: initial; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">The change from Universal Analytics to Google Analytics 4 has brought us brand-new metrics that website owners and marketers now have access to.</span></div>
+<div>
+<p>Back in UA, the main engagement-based metric that site owners looked at was <strong>bounce rate.</strong></p>
+<p>Now, <strong>GA4 integrates different engagement rates</strong>, sessions, time, and other engagement metrics that help us understand how users interact with your pages.</p>
+<p>Let’s discover and unleash the potential of <strong>engagement rate in Google Analytics 4</strong> in this in-detail guide.</p>
+<h2 id="what-is-engagement-rate-google-analytics-4">What Is Engagement Rate Google Analytics 4?</h2>
+<p>Engagement rate is defined by Google as the <strong>percentage of sessions in one page that were engaged sessions.</strong></p>
+<p>There are three parameters that determine if a session is an engaged session or not. Essentially, an engaged session is:</p>
+<ol>
+<li>A page view session that lasted <strong>10 seconds or longer</strong>.</li>
+<li>A session that triggered at least <strong>1 conversion event.</strong></li>
+<li>A session that has <strong>2 or more page views</strong> per session.</li>
+</ol>
+<p>These are all considered engaged sessions and count towards engagement rate and other metrics implemented by Google in <strong>GA4.</strong></p>
+<p><strong>In Universal Analytics, engagement on website was measured by bounce rate.</strong> Bounce rate is the percentage of sessions on a given page in which there were no interactions with that page.</p>
+<p>For example, if a user visited a page on your website, but left the page without taking an action (like clicking a link), then that session will count towards the bounce rate.</p>
+<p>Per definition, <strong>bounce rate is the inverse of engagement rate:</strong> bounce rate is calculated based on non-engaged sessions, and engagement rate is calculated based on engaged sessions.</p>
+<p>There are other website’s engagement metrics introduced by Google that we need take into account:</p>
+<table>
+<thead>
+<tr>
+<th>Metric Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Engaged Session</td>
+<td>Engagement Sessions take place when pageviews last more than 10 seconds, users visit other pages on your site, or they trigger conversion events.</td>
+</tr>
+<tr>
+<td>Engaged Sessions Per User</td>
+<td>Engaged Sessions Per User is the overall number of engagement sessions that users have on your website on average over a certain time period.</td>
+</tr>
+<tr>
+<td>Engagement Time</td>
+<td>Average Engagement Time is the average session duration of an engaged session on your site.</td>
+</tr>
+<tr>
+<td>Engagement Rate</td>
+<td>Average engagement rate data is calculated based on user engagement actions on your website (long visits, clicks, events, and more).</td>
+</tr>
+</tbody>
+</table>
+<p>You can see these different engagement rate metrics by checking the <strong>Engagement Overview</strong> on your Google Analytics 4 panel.</p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/engagement-rate-google-analytics-4-engagement-overview-usefathom.com_.jpg" alt="engagement overview section" /></p>
+<h3 id="how-ga4-calculates-engagement-rate">How GA4 Calculates Engagement Rate?</h3>
+<p>The <strong>engagement rate formula</strong> implemented by Google is the following:</p>
+<p>Engagement rate = Number of Engaged Sessions / Total Number of Sessions * 100.</p>
+<p>By calculating the total number of engaged sessions and dividing it by total sessions (engaged or not), GA4 calculates your website’s engagement rate expressed in percentages.</p>
+<p>If you had 15,000 total sessions on a website page, and 800 of those sessions engaged with your site, then your engagement rate would be:</p>
+<p>(800 / 15,000) * 100 = <strong>5.3%.</strong></p>
+<h2 id="what-impacts-engagement-rate">What Impacts Engagement Rate?</h2>
+<p>Engagement rate is impacted by the percentage of users who interact with a web page. If users <em>do not find the page useful</em>, they will leave without triggering events (remember that <strong>GA4’s data model is event-based</strong>).</p>
+<p>When looking at your engagement rate, you should focus on how this metric can help you in the following factors:</p>
+<ol>
+<li><strong>See the efficiency of a traffic source:</strong> are users who open your site from Facebook engaging with your site more than users from search engines?</li>
+<li><strong>Analyze marketing campaigns:</strong> measuring user satisfaction through engagement rates can help you improve your current marketing efforts to increase user engagement and meet their expectations.</li>
+<li><strong>Improve conversion rates:</strong> since engagement rate is also determined by events triggered (conversions), it is possible to use this information to identify opportunities that can lead to a high engagement rate. In general, high engagement rates lead to more overall conversions.</li>
+</ol>
+<h2 id="what-is-a-good-engagement-rate">What is a Good Engagement Rate?</h2>
+<p>Multiple industries will have <strong>different definitions of good and bad engagement rates.</strong></p>
+<p>According to Hootsuite, experts agree that a good engagement rate is between 1% and 5% on most <em>social media platforms</em>. This can be considered a low engagement rate in different industries.</p>
+<p>On websites and online businesses, on average, <strong>a good engagement rate is somewhere between 60% and 70%.</strong></p>
+<p>So, to answer this question: <strong>It depends.</strong> &#8220;Good&#8221; engagement rate varies based on the nature of the product or service, the ultimate business goals, the industry type, and the target audience.</p>
+<p>It&#8217;s important to <strong>analyze, comprehend and interpret engagement rate</strong> and other engagement metrics to craft a custom strategy that can positively impact user engagement on your website.</p>
+<h2 id="where-do-i-find-engagement-rate-in-ga4">Where Do I Find Engagement Rate in GA4?</h2>
+<p>Engagement rate metrics provide valuable information related to your website content. It can also help you identify your most important pages and the type of content that is consistently engaging users.</p>
+<p>But <em>how do you find your engagement rate on GA4?</em> You can find engagement rate in GA4 by following five simple steps.</p>
+<h3 id="step-1-open-your-google-analytics-4-account-and-go-to-reports">Step 1: Open Your Google Analytics 4 Account and Go to Reports</h3>
+<p>Open your Google Analytics 4 Account and look for the <strong>Reports</strong> option at the left hand side panel.</p>
+<p>Here, open the Engagement drop-down menu, and <strong>select “Pages and Screens”</strong> report.</p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/engagement-rate-google-analytics-4-pages-and-screens-section-usefathom.com_.jpg" alt="go to pages and screens" /></p>
+<h3 id="step-2-click-the-pencil-icon-to-customize-engagement-report">Step 2: Click the Pencil Icon to Customize Engagement Report</h3>
+<p>Click on the <strong>little pencil icon</strong> that appears at the top right corner of the report graphic. This will allow you to edit the report based on your needs.</p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/engagement-rate-ga-4-customize-engagement-report-usefathom.com_.jpg" alt="click to customize engagement report" /></p>
+<h3 id="step-3-add-engagement-metrics-to-the-report">Step 3: Add Engagement Metrics to the Report</h3>
+<p>After clicking the Pencil Icon, you will see an option to <strong>Customize</strong> the report. There, select <strong>Metrics.</strong></p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/engagement-rate-google-analytics-4-customize-metrics-usefathom.com_.jpg" alt="customize metrics" /></p>
+<p>You can add up to 12 metrics to your Engagement Report. In the “Add Metric” search bar, <strong>look for “Engagement Rate” and add it by clicking “Apply.”</strong></p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/engagement-rate-ga-4-add-engagement-rate-metric-to-report-usefathom.com_.jpg" alt="add engagement rate metric to the report" /></p>
+<h3 id="step-4-save-the-changes-and-go-back">Step 4: Save the Changes and Go Back</h3>
+<p>Go to the report graphic, and <strong>click Save</strong>. You can either select “Save Changes to Current Report” or “Save as a New Report.”</p>
+<p>Click the option of your preference, and select “Go Back.”</p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/engagement-rate-google-analytics-4-save-report-usefathom.com_.jpg" alt="save report" /></p>
+<h3 id="step-5-check-engagement-rate-metric-per-page">Step 5: Check Engagement Rate Metric Per Page</h3>
+<p>Go back <strong>to Pages and Screens</strong>, and scroll down.</p>
+<p>Since the engagement rate is calculated based on your website’s pages, you will be able to side-scroll to find it.</p>
+<p>Remember that the engagement rate will be expressed in percentage.</p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/engagement-rate-ga-4-check-engagement-per-page-usefathom.com_.jpg" alt="check engagement rate per page" /></p>
+<p>That’s <strong>how you find your page’s engagement rates on Google Analytics 4.</strong></p>
+<p>It is also possible to add Engagement Rate and other engagement data to Traffic Acquisition reports.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="whats-the-difference-between-ua-and-ga4-bounce-rate">What&#8217;s the Difference Between UA and GA4 Bounce Rate?</h3>
+<p>According to Google, bounce rate in Universal Analytics is the “percentage of visits that did not interact with your site,” whereas bounce rate in Google Analytics 4 is the “percentage of sessions that were not engaged sessions.” <strong>In GA4, bounce rate is measured through the triggering of events, whereas UA’s bounce rate is measured based on page interactions.</strong></p>
+<div>
+<p>Paul Jarvis is the co-founder of Fathom Analytics and the co-host of the Above Board podcast.</p>
+</div>
+<div>Posted in learn</div>
+</div>
+<p class="wpss_copy">Content retrieved from: <a href="https://usefathom.com/blog/engagement-rate-google-analytics" target="_blank" rel="noopener">https://usefathom.com/blog/engagement-rate-google-analytics</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/engagement-rate-in-google-analytics-4-all-you-need-to-know/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Delete Act: all you need to know</title>
+		<link>/delete-act-all-you-need-to-know/</link>
+					<comments>/delete-act-all-you-need-to-know/#respond</comments>
+		
+		<dc:creator><![CDATA[TrackTrendy]]></dc:creator>
+		<pubDate>Thu, 05 Oct 2023 22:45:33 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/delete-act-all-you-need-to-know/</guid>
+
+					<description><![CDATA[On October 10, the State of California adopted the Delete Act, a new law that allows California residents to simultaneously require all data brokers to delete their personal information. The Act will likely deeply impact privacy practices inside and outside the State. So, let’s see what this law is all about! What is the Delete [...]]]></description>
+										<content:encoded><![CDATA[<div>
+<p><span><!--[-->On October 10, the State of California adopted the Delete Act, a new law that allows California residents to simultaneously require all data brokers to delete their personal information. The Act will likely deeply impact privacy practices inside and outside the State. So, let’s see what this law is all about!<!--]--></span></p>
+<ol>
+<li>What is the Delete Act?</li>
+<li>Didn’t Californians already have a right to erasure?</li>
+<li>How does the Delete Act work?</li>
+<li>How is the Delete Act different from other laws?</li>
+<li>Who does the Act apply to?</li>
+<li>Are there any exemptions to the Delete Act?</li>
+<li>What are the penalties under the Delete Act?</li>
+<li>What impact will the Delete Act have?</li>
+<li>Conclusion</li>
+</ol>
+<div>
+<div><span>The UK Government chose Simple Analytics</span>Join them</div>
+</div>
+<h2 id="what-is-the-delete-act"><span><!--[-->What is the Delete Act?<!--]--></span></h2>
+<p><span><!--[-->The Delete Act is a new California law on the right to <strong>have your data deleted from data brokers</strong>. The Delete Act will be enforced by the California Privacy Protection Agency (CPPA).<!--]--></span></p>
+<h2 id="didnt-californians-already-have-a-right-to-erasure"><span><!--[-->Didn’t Californians already have a right to erasure?<!--]--></span></h2>
+<p><span><!--[-->Yes, California residents have a right to erasure under the CCPA. But, there are two problems when it comes to data brokers.<!--]--></span></p>
+<p><span><!--[-->First of all, it is unclear whether they can exercise that right against data brokers based on the wording of the CCPA. Second, assuming that they can, requesting data brokers to delete personal information would still be <strong>difficult in practice</strong>. Many different brokers typically control information about a single consumer, and consumers typically do not know who these brokers are and how to contact them.<!--]--></span></p>
+<p><span><!--[-->Long story short, the right to erasure introduced by the Delete Act is not new in California law, but the Act makes it much easier for consumers to exercise it against data brokers.<!--]--></span></p>
+<h2 id="how-does-the-delete-act-work"><span><!--[-->How does the Delete Act work?<!--]--></span></h2>
+<p><span><!--[-->The deletion system described by the Act will consist of a <strong>unified registry for deletion requests</strong>. Data brokers must periodically access the system and review their databases to ensure they do not contain data about subjects who submitted a request.<!--]--></span></p>
+<p><span><!--[-->Data brokers will also be under other obligations, such as documenting compliance with deletion requests and auditing the results of their procedures for honoring requests.<!--]--></span></p>
+<p><span><!--[-->The Delete Act is vague about the system&#8217;s technicalities and calls on the CPPA to iron out the kinks in its future regulation. According to the law, the system must be up and running by 2026 the latest. In all likelihood, planning the system will be no walk in the park for the CCPA- and implementing it will be no walk in the park for companies!<!--]--></span></p>
+<h2 id="how-is-the-delete-act-different-from-other-laws"><span><!--[-->How is the Delete Act different from other laws?<!--]--></span></h2>
+<p><span><!--[-->The Delete Act is an innovative law. Privacy laws such as the GDPR and California’s own CCPA frame the right to erasure as a matter between an individual and a specific company or organization. On the other hand, the Delete Act broadens the scope of a single request to all data brokers. This system differs from typical erasure requests and rather resembles a do-not-call registry of sorts.<!--]--></span></p>
+<p><span><!--[-->The Delete Act also differs from other privacy laws in that requests also impact any data collected after the submission. A data broker cannot simply delete your data and call it a day; they must periodically review their database and erase any new data about you. <strong>An ongoing process of review and erasure is required</strong>.<!--]--></span></p>
+<h2 id="who-does-the-act-apply-to"><span><!--[-->Who does the Act apply to?<!--]--></span></h2>
+<p><span><!--[-->On one side of the equation, the Act applies to <strong>California residents</strong>, much like the CCPA. No one else can submit a request under the Act.<!--]--></span></p>
+<p><span><!--[-->On the other side of the equation, the Act applies to data brokers. The law defines data brokers as any business that <strong>knowingly collects and sells information of consumers with whom the business has no direct relationship</strong>. So, data brokers essentially act as intermediaries, acquiring personal information on consumers through a third party and selling it to another third party.<!--]--></span></p>
+<p><span><!--[-->It should be noted that the Act uses the same <strong>broad definition of data sale</strong> as the CCPA/CPRA. The disclosure of consumer data in exchange for something valuable, will likely be considered as a sale, whether monetary payment is involved or not. This means that the Act may apply to many intermediaries in the advertising sector, depending on how regulators understand the definition.<!--]--></span></p>
+<p><span><!--[-->It is yet unclear whether the definition of data broker also covers businesses who buy or receive data from intermediaries- in other words, the <strong>customers of data brokers</strong>. This yet unclear point is crucial, as many businesses (including smaller ones) enrich their customer data with third party information. Future regulation from the CCPA will hopefully clarify this.<!--]--></span></p>
+<p><span><!--[-->One thing is clear, though: much like the CCPA, the Delete Act will also apply to data brokers <strong>outside California, and even outside the US.</strong><!--]--></span></p>
+<p><span><!--[-->On a side note, it is worth highlighting that California has a <strong>registry for data brokers</strong>, and that registration was mandatory even before the Data Act. This could make enforcement easier, as the CCPA will know who the data brokers are and how to contact them.<!--]--></span></p>
+<h2 id="are-there-any-exemptions-to-the-delete-act"><span><!--[-->Are there any exemptions to the Delete Act?<!--]--></span></h2>
+<p><span><!--[-->Yes. Much like the CCPA, the Delete Act does not apply to companies that are bound by sector-specific regulation (such as the HIPAA for the health care sector).<!--]--></span></p>
+<h2 id="what-are-the-penalties-under-the-delete-act"><span><!--[-->What are the penalties under the Delete Act?<!--]--></span></h2>
+<p><span><!--[-->Data brokers can be fined <strong>$200 for each day</strong> they fail to honor a deletion requests. Data brokers can also be fined under pre-existing California laws for failing to register themselves in the data broker registry.<!--]--></span></p>
+<h2 id="what-impact-will-the-delete-act-have"><span><!--[-->What impact will the Delete Act have?<!--]--></span></h2>
+<p><span><!--[-->The Delete Act will likely have a big impact on the advertising sector, and on other sectors heavily relying on data intermediaries (such as fraud detection). To comply with the law, companies must establish new procedures, and periodically review their databases to retrieve the data they need to delete.<!--]--></span></p>
+<p><span><!--[-->This will likely <strong>increase legal and operation costs</strong> by no small amount. Additionally, it will require companies to implement <strong>robust data governance</strong> practices, if they haven’t already, to make it easy to filter out databases and retrieve the information that needs to be deleted.<!--]--></span></p>
+<p><span><!--[-->Finally, it should be noted that data brokers need to <strong>verify deletion requests</strong>. In other words, brokers need to make sure that consumers are who they say they are, and to find out exactly what personal information in their databases relates to them.<!--]--></span></p>
+<p><span><!--[-->This will be complicated because data brokers sometimes do not collect direct identifiers that would allow for easy verification. It would be wise for businesses to <strong>establish robust verification procedures</strong> before the requests start coming in and to keep an eye on the CPPA for any guidance on verification.<!--]--></span></p>
+<h2 id="conclusion"><span><!--[-->Conclusion<!--]--></span></h2>
+<p><span><!--[-->It is early to say to what extent the Delete Act will impact the digital economy. However, it is clear that it will make compliance harder for data brokers. Companies covered by the Act should think ahead and immediately start preparing to meet its obligations.<!--]--></span></p>
+<p><span><!--[--><em>We are passionate about privacy. It is a human right, and one that is becoming more important with each day as the world becomes more and more interconnected.</em><!--]--></span></p>
+<p><span><!--[--><em>This is why we created Simple Analytics. Our privacy-first tool allows our customers to get all the insights they need in an ethical, privacy-friendly way. Simple Analytics delivers accurate insights without cookies, without trackers, and without collecting a single bit of personal data! If this sounds good to you, feel free to give us a try!</em><!--]--></span></p>
+</div>
+<p></p>
+<p class="wpss_copy">Content retrieved from: <a href="https://www.simpleanalytics.com/blog/delete_act" target="_blank" rel="noopener">https://www.simpleanalytics.com/blog/delete_act</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/delete-act-all-you-need-to-know/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Unique Visitors in Google Analytics: All You Need To Know</title>
+		<link>/unique-visitors-in-google-analytics-all-you-need-to-know/</link>
+					<comments>/unique-visitors-in-google-analytics-all-you-need-to-know/#respond</comments>
+		
+		<dc:creator><![CDATA[TrackTrendy]]></dc:creator>
+		<pubDate>Mon, 02 Oct 2023 22:47:12 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/unique-visitors-in-google-analytics-all-you-need-to-know/</guid>
+
+					<description><![CDATA[Fathom Analytics blog / Learn Unique Visitors in Google Analytics: All You Need To Know Learn everything about unique visitors in Google Analytics 4, including their definition, identification, limitations, and where to find the data. &#160; Google Analytics 4 measures website visitors differently than Universal Analytics. The new event-based data model changes the way in [...]]]></description>
+										<content:encoded><![CDATA[<p><em>Learn everything about unique visitors in Google Analytics 4, including their definition, identification, limitations, and where to find the data.</em></p>
+<p><span style="font-size: revert; color: initial; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">Google Analytics 4 measures website visitors differently than Universal Analytics.</span></p>
+<div>
+<p>The new <strong>event-based data model</strong> changes the way in which Google Analytics shows returning and new users on the main tool’s interface.</p>
+<p>This changes the definition of <strong>unique visitors in Google Analytics 4</strong>, but don’t worry &#8211; we’ll show you everything you need to know about unique users visiting your site right in this guide.</p>
+<h2 id="what-are-unique-visitors">What Are Unique Visitors?</h2>
+<p>Unique visitors are defined as <strong>the number of unduplicated individual users who visit your website over the course of a specified time period.</strong></p>
+<p>Google Analytics unique visitors are one of the most important web analytics metrics and shows you insights regarding the <strong>growth and evolution</strong> of your site’s audience.</p>
+<p>An increase in the total number of unique visitors means that your site is <strong>being accessed by new people</strong> over a certain time period.</p>
+<p>This information can be used to determine the engagement of your site content, the effectiveness of marketing campaigns, and user behaviour based on traffic sources.</p>
+<h3 id="official-google-analytics-definition-of-unique-visitors">Official Google Analytics Definition of Unique Visitors</h3>
+<p>Google defines unique visitors as the <strong>“total number of unique users who logged an event.”</strong></p>
+<p>Back in Universal Analytics (compare UA to GA4 metrics here), the “Total Number of Users” metric was measured as a whole based on unique sessions (users that had at least <em>one session</em> within the selected date range).</p>
+<p>In GA4, user visits can only be <strong>considered “unique”</strong> if:</p>
+<ol>
+<li>A first-party cookie is stored on the user’s browser.</li>
+<li>They trigger an engaged session event (stay on a web page for 10 seconds or more, visit another page, or trigger a conversion event).</li>
+</ol>
+<h2 id="how-does-google-analytics-identify-unique-visitors">How Does Google Analytics Identify Unique Visitors?</h2>
+<p>Google Analytics 4 determines unique visits by storing browser cookies when they open a session on your website.</p>
+<p>GA4 cookies store a client ID in <strong>a first-party cookie called _ga.</strong> This cookie assigns an identifier to the new session, which helps the tool <em>distinguish</em> between a new user and a returning visitor.</p>
+<p>Although the <strong>default expiration time of the ga cookie is 2 years</strong>, it is possible for web owners to change these parameters in order to <strong>comply with privacy regulations</strong> imposed by government authorities.</p>
+<p>It is worth noting that some browsers, such as Safari, enforce <strong>limitations on the lifespan of cookies</strong> if users do not return to a certain website.</p>
+<h3 id="unique-visitors-vs-new-users">Unique Visitors vs New Users</h3>
+<p>Google Analytics 4 allows you to track unique visitors to your website through cookies, but <strong>what if one user comes back?</strong> Will they be tracked as a unique visitor?</p>
+<p>No, as long as the first-party cookie with its unique identifier is <em>still stored</em> on their browser.</p>
+<p><strong>New users in Google Analytics 4 are the total number of users who launch or open your website for the first time.</strong> In order to classify website visitors as unique users, GA4 takes the following factors into account:</p>
+<ol>
+<li>The user need to have <strong>a new unique user ID</strong> stored through cookies.</li>
+<li>A <strong>first_visit or first_open event</strong> needs to be triggered.</li>
+</ol>
+<p>Both conditions must be met in order to count users as new visitors.</p>
+<p>If, for instance, a user triggers a first_open event, but their user ID has been already stored by GA4 in the past, they will be counted as a <strong>returning user.</strong></p>
+<h2 id="limitations-of-unique-visitors-data-in-ga">Limitations of Unique Visitors Data in GA</h2>
+<p>Google’s way of measuring unique visitors is <strong>not perfect.</strong> Returning users can be counted as unique visitors sometimes, which causes <strong>inaccurate data reporting.</strong></p>
+<p>In the following scenarios, Google Analytics 4 will encounter <em>anomalies</em> while trying to measure unique visitors:</p>
+<ol>
+<li><strong>Ad-blockers and privacy-focused browsers:</strong> visitors who employ ad-blockers and different browsers with privacy-focused features will not appear as Unique Users in your GA4 dashboard. Fathom Analytics is a Google Analytics alternative that is blocked by less ad-blockers and browsers than GA.</li>
+<li><strong>Cross-device cookie tracking:</strong> if the same user accesses your website through multiple devices or a different operating system, it will be counted as a new unique visitor.</li>
+<li><strong>Multiple individuals using the same device:</strong> if more than one person uses a single device to see your website, they will count as a single person towards the Unique Visitors web metric.</li>
+<li><strong>Incognito browsing modes contribute to inaccuracies:</strong> Incognito Browsing Modes, such as Google Chrome Incognito Mode, causes users to be seen as new users, even if they are returning visitors.</li>
+<li><strong>Local laws/regulations that make data collection limited:</strong> privacy regulations in some countries establish that websites can only store cookies if users give their consent. Google Analytics 4 has a cookie Consent Mode, which provides users with the option to get their user sessions tracked by cookies or not.</li>
+</ol>
+<h2 id="where-to-find-unique-visitors-in-google-analytics-4">Where to Find Unique Visitors in Google Analytics 4</h2>
+<p>You can see how many unique visitors your site gets simply by logging into your Google Analytics account.</p>
+<p>After you log in to Google Analytics account, go to the main <strong>Home Tab.</strong> There, you will see a graphic that shows you both <strong>Users and New Users.</strong></p>
+<p><strong>“Users” refers to each unique visitor</strong> your website has obtained during the past few days.</p>
+<p>Remember that you can <strong>change the date range</strong> of the graphic to get monthly, weekly or daily insights into the Unique Visitor metric.</p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/unique-visitors-google-analytics-4-view-usefathom.com_.jpg" alt="unique visitors in ga4" /></p>
+<p>If you have recently made the switch from UA to GA4, remember that the tools do not track unique visitors equally, <strong>even if the term “Users” appear the same.</strong></p>
+<p>GA4 tracks unique visitors based on events, whereas UA tracks unique visitors based on sessions.</p>
+<p>This is all you need know about unique visitors concepts and definitions in Google Analytics 4. Keep in mind that unique visitor metrics should be <strong>analyzed, interpreted and checked based on your own website’s audience and goals.</strong></p>
+<h2 id="faq">FAQ</h2>
+<h3 id="are-unique-visitors-same-as-unique-pageviews">Are Unique Visitors Same as Unique Pageviews?</h3>
+<p>No, unique visitors and unique pageviews are not the same. Unique pageviews are the <strong>number of times that certain web pages have been viewed by a unique visitor</strong> over a certain time period. This means that if a unique visitor sees 3 different pages, Google Analytics 4 will count it as 3 page views, but only a single Unique Page View.</p>
+<div>
+<p>Paul Jarvis is the co-founder of Fathom Analytics and the co-host of the Above Board podcast.</p>
+</div>
+<div>Posted in learn</div>
+</div>
+<p class="wpss_copy">Content retrieved from: <a href="https://usefathom.com/blog/unique-visitors-google-analytics" target="_blank" rel="noopener">https://usefathom.com/blog/unique-visitors-google-analytics</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/unique-visitors-in-google-analytics-all-you-need-to-know/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CCPA and Data Protection: all there is to know</title>
+		<link>/ccpa-and-data-protection-all-there-is-to-know/</link>
+					<comments>/ccpa-and-data-protection-all-there-is-to-know/#respond</comments>
+		
+		<dc:creator><![CDATA[TrackTrendy]]></dc:creator>
+		<pubDate>Tue, 26 Sep 2023 22:45:12 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/ccpa-and-data-protection-all-there-is-to-know/</guid>
+
+					<description><![CDATA[The CCPA is a well-known and influential law in the data protection landscape. It is easy to see why: many data-driven tech companies are based in Silicon Valley, including giants like Apple, Google, and Meta. So, the CCPA is by far the most impactful State law for the digital economy. Let’s learn more about the [...]]]></description>
+										<content:encoded><![CDATA[<div>
+<p><span><!--[-->The CCPA is a well-known and influential law in the data protection landscape. It is easy to see why: many data-driven tech companies are based in Silicon Valley, including giants like Apple, Google, and Meta. So, the CCPA is by far the most impactful State law for the digital economy. Let’s learn more about the CCPA and how it influences data protection within and outside California!<!--]--></span></p>
+<ol>
+<li>What is the CCPA?</li>
+<li>What is personal information under the CCPA?</li>
+<li>How does the CCPA apply to cookies?</li>
+<li>How does the CCPA impact direct marketing?</li>
+<li>How does the CCPA impact the use of sensitive information?</li>
+<li>The CCPA in action: the Sephora case</li>
+<li>Beyond the CCPA: California privacy law</li>
+<li>The future of data protection under the CCPA</li>
+</ol>
+<div>
+<div><span>Michelin chose Simple Analytics</span>Join them</div>
+</div>
+<h2 id="what-is-the-ccpa"><span><!--[-->What is the CCPA?<!--]--></span></h2>
+<p><span><!--[-->The CCPA is the <strong>California Consumer Privacy Act</strong> of 2018. The Act gives California residents certain rights, such as erasing their personal information and opting out of the sale of their data.<!--]--></span></p>
+<p><span><!--[-->The CCPA was amended several times and underwent extensive modifications in 2020 with the CPRA (California Privacy Rights Act). The CCPA is enforced by the <strong>Attorney General of California</strong> and the <strong>California Privacy Protection Agency</strong> (CPPA).<!--]--></span></p>
+<p><span><!--[-->The CCPA only gives rights to California residents but applies to organizations outside of California as well, and even outside the US. The Act only applies to large businesses and businesses that control large amounts of personal information of California residents. It does not apply to government agencies and nonprofits, with narrow exceptions for nonprofits tied to businesses.<!--]--></span></p>
+<h2 id="what-is-personal-information-under-the-ccpa"><span><!--[-->What is personal information under the CCPA?<!--]--></span></h2>
+<p><span><!--[-->The CCPA defines personal information as <em>“information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household”</em>.<!--]--></span></p>
+<p><span><!--[-->This is a broad definition and covers more than direct identifiers such as names, addresses, and social security codes. For instance,** unique identifiers** such as those found in <strong>cookies</strong> are personal information under the CCPA, because they can reasonably be linked to a device- and therefore to its user.<!--]--></span></p>
+<p><span><!--[-->Bottom line: don’t be too rash in assuming your business does not control personal information!<!--]--></span></p>
+<h2 id="how-does-the-ccpa-apply-to-cookies"><span><!--[-->How does the CCPA apply to cookies?<!--]--></span></h2>
+<p><span><!--[-->The CCPA has no rule for cookies, but its rules on third-party data sharing impact web analytics.<!--]--></span></p>
+<p><span><!--[-->Under the Act, California residents have a <strong>right to opt out of the sale of their personal information</strong>. The definition of “sale” in the CCPA was always broad and became even broader with the CPRA. As a result, <strong>sharing personal information with Google Analytics or other web analytics providers, can constitute a sale under the Act</strong>. In practice, this means that California residents have a right to be informed and must be provided an option to opt out.<!--]--></span></p>
+<p><span><!--[-->So, businesses covered by the CCPA must provide <strong>information pop-ups</strong> regarding analytics and marketing cookies on their websites and provide a <strong>conspicuous opt-out option</strong> in the form of a button or link.<!--]--></span></p>
+<p><span><!--[-->Additionally, the CCPA requires <strong>opt-in consent for selling the personal data of minors</strong>. Businesses are required to collect consent from minors of 16 before they knowingly sell their personal information.<!--]--></span></p>
+<p><span><!--[-->The CCPA also requires companies to honor <strong>Global Privacy Control</strong> (GPC). GPC is a technical standard through which browsers require websites to not sell or share their data. In other words, GPC is how browsers send <strong>automated opt-out requests</strong> so that users do not need to manually opt out of data sales for every single website they visit.<!--]--></span></p>
+<h2 id="how-does-the-ccpa-impact-direct-marketing"><span><!--[-->How does the CCPA impact direct marketing?<!--]--></span></h2>
+<p><span><!--[-->The CCPA does not deal with direct marketing specifically, but some of its rules matter for direct marketing.<!--]--></span></p>
+<p><span><!--[-->The rules on the selling and sharing of personal data do not apply to direct marketing in and of itself, but they may <strong>restrict the availability of third-party data</strong> for direct marketing. The <strong>Delete Act</strong> will likely further restrict data availability, which is bad news for many marketing companies relying on third-party data, and for any company enriching their databases with third-party data.<!--]--></span></p>
+<p><span><!--[-->Additionally, consumers who receive direct marketing have a right to know what personal information is processed. Businesses engaged in direct marketing should establish efficient procedures for handling these requests. Ideally, they would keep a record of their operations in order to be able to tell consumers what data they have, where it came from, and whether it was received from or shared with any third parties.<!--]--></span></p>
+<p><span><!--[-->It is unclear whether the right to delete under the CCPA applies to third-party data as well. Future enforcement will likely clarify this point. In the meantime, marketing companies should err on the side of caution and honor requests to delete third-party data.<!--]--></span></p>
+<h2 id="how-does-the-ccpa-impact-the-use-of-sensitive-information"><span><!--[-->How does the CCPA impact the use of sensitive information?<!--]--></span></h2>
+<p><span><!--[-->Sensitive information is personal information such as sex life and sexual orientation, genetic data, ethnicity data, and so on. Social security numbers, credit/debit card information, emails, and precise geolocation data are also sensitive information under the CCPA (for a more accurate and comprehensive list, please refer to the website of the Office of the Attorney General of California).<!--]--></span></p>
+<p><span><!--[-->Under the CCPA, consumers have a right to <strong>limit the use and sharing of their sensitive information</strong> to what is strictly needed (for instance, to provide a service).<!--]--></span></p>
+<p><span><!--[-->To some extent, this right overlaps with the right to opt out of the sale of personal information. But it is also broader because it covers first-party use of data and instances of data sharing that do not fall under the definition of sell or share.<!--]--></span></p>
+<h2 id="the-ccpa-in-action-the-sephora-case"><span><!--[-->The CCPA in action: the Sephora case<!--]--></span></h2>
+<p><span><!--[-->CCPA enforcement is catching up with businesses, and the Sephora case is a very good example of what not to do.<!--]--></span></p>
+<p><span><!--[-->French company Sephora is a multinational retailer of beauty products. It got in trouble with the Attorney General for a laundry list of CCPA violations related to its <strong>web analytics</strong>. The company failed to disclose it was selling personal information, failed to honor user requests to opt out of a sale, and did not cure its violations within the 30-day period allowed by the law.<!--]--></span></p>
+<p><span><!--[-->The case ended with a <strong>$1.2M</strong> settlement between the company and the Attorney General. In practice, it is common for CCPA violations to end with a settlement. An actual fine would likely have been much more costly.<!--]--></span></p>
+<p><span><!--[-->Interestingly, Sephora was not selling personal information to data brokers and such. Like countless other businesses, Sephora company was doing web marketing and analytics through a popular web analytics provider (the provider’s name was not disclosed).<!--]--></span></p>
+<p><span><!--[-->So, <strong>even web marketing and re-targeting can be a sale under the CCPA</strong>. This is a really important point to stress: many companies believe they do not sell consumer data, but <strong>they do, and they can be held accountable</strong> if they do not comply with the obligations that the sale ensues.<!--]--></span></p>
+<p><span><!--[-->It is also worth noting that the Advocate General enforced the rule on Global Privacy Control against Sephora. Only time will tell how big a role GPC will play in practice, but the enforcement of the GPC rules in this case sets a promising precedent.<!--]--></span></p>
+<h2 id="beyond-the-ccpa-california-privacy-law"><span><!--[-->Beyond the CCPA: California privacy law<!--]--></span></h2>
+<p><span><!--[-->There are other promising developments in California law aside from the CCPA.<!--]--></span></p>
+<p><span><!--[-->We already mentioned the Delete Act. The Act allows residents to require all data brokers to delete their personal information by filing a single request. In other words, it is a <strong>one-stop-shop system</strong> of sorts.<!--]--></span></p>
+<p><span><!--[-->If strictly enforced, the Delete Act could effectively enforce privacy rights against data brokers and limit the amount of personal information available for surveillance-based advertising and third-party data enrichment. It is also worth noting that **data broker registration is mandatory **under California law, which could make the Delete Act easier to enforce.<!--]--></span></p>
+<p><span><!--[-->It is also worth noting that California privacy law <strong>limits reverse-keyword searches and geofencing</strong>.<!--]--></span></p>
+<p><span><!--[-->Geofencing is the use of location data to create a virtual boundary around a location and record all the individuals within it. Reverse-keyword searches are a type of court order often used by law enforcement.<!--]--></span></p>
+<p><span><!--[-->Both geofencing and reverse-keyword searches are frequently used to monitor and prosecute women seeking <strong>reproductive health care</strong> after the Dobbs v. Jackson ruling of the US Supreme Court (it’s a long story, we wrote about it here).<!--]--></span></p>
+<p><span><!--[-->Washington was the first State to limit geofencing and reverse-keyword searches with the suggestively named My Health My Data Act. California has long been a sanctuary State for reproductive health care, and shortly followed suit.<!--]--></span></p>
+<h2 id="the-future-of-data-protection-under-the-ccpa"><span><!--[-->The future of data protection under the CCPA<!--]--></span></h2>
+<p><span><!--[-->The CCPA already had a tangible impact on digital privacy within and outside California. Its future impact will depend on enforcement and on the CPPA’s upcoming regulations. But the most important variable for the future of California privacy law is, of course, the future of US privacy law at large.<!--]--></span></p>
+<p><span><!--[--><strong>The US has no federal privacy law</strong>. The first federal data protection legislation (ADPPA) is currently in the works but negotiations have stalled in Congress. Specific sectors such as healthcare and finance have their own privacy rules, but there is no comprehensive and general federal law for online privacy.<!--]--></span></p>
+<p><span><!--[--><strong>State laws such as the CCPA are an attempt to fill this void</strong>. But while State laws afford important protections to the residents of some States, they also create a <strong>fragmented legal landscape</strong> throughout the US. Right now, companies need to understand and comply with each State&#8217;s legislation to do business nationwide.<!--]--></span></p>
+<p><span><!--[-->This legal fragmentation is also an obstacle to the legislative process behind the ADPPA. States with privacy laws do not want the ADPPA to undermine the privacy rights their citizens already enjoy, and some of them have pushed back against ADPPA drafts that would preempt their own legislation.<!--]--></span></p>
+<p><span><!--[-->Long story short, it is hard to say if the ADPPA draft will ever become law and what role State laws such as the CCPA would play in that scenario.<!--]--></span></p>
+<p><span><!--[-->_We care about privacy. This is why we do our best to provide our audience with quality, jargon-free information on privacy news.<!--]--></span></p>
+<p>Our passion for privacy is at the heart of Simple Analytics. Our product gives organizations all the insight they need, without collecting a single bit of personal data. If you are looking for a complaint, ethical, and powerful web analytics tool, feel free to give Simple Analytics a try! _</p>
+</div>
+<p></p>
+<p class="wpss_copy">Content retrieved from: <a href="https://www.simpleanalytics.com/blog/ccpa-and-data-protection-all-there-is-to-knccpa_and_data_protection" target="_blank" rel="noopener">https://www.simpleanalytics.com/blog/ccpa-and-data-protection-all-there-is-to-knccpa_and_data_protection</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ccpa-and-data-protection-all-there-is-to-know/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Can you still export Universal Analytics data?</title>
+		<link>/can-you-still-export-universal-analytics-data/</link>
+					<comments>/can-you-still-export-universal-analytics-data/#respond</comments>
+		
+		<dc:creator><![CDATA[TrackTrendy]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2023 22:46:14 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/can-you-still-export-universal-analytics-data/</guid>
+
+					<description><![CDATA[Our Google Analytics importer is now available If you’ve got an account, sign-in and start using it today. If you’re not yet a customer, grab a 30-day free trial and start using the importer within minutes. As of July 1, 2023, Google has replaced Universal Analytics with GA4. Meaning UA will no longer process new [...]]]></description>
+										<content:encoded><![CDATA[<div>
+<div>
+<h4 id="our-google-analytics-importer-is-now-available">Our Google Analytics importer is now available <i></i></h4>
+<p>If you’ve got an account, sign-in and start using it today. If you’re not yet a customer, grab a 30-day free trial and start using the importer within minutes.</p>
+</div>
+<p>As of July 1, 2023, Google has replaced Universal Analytics with GA4. Meaning UA will no longer process new data.</p>
+<p>Essentially: <strong>you can no longer use UA for website analytics</strong>.</p>
+<p>Google is deleting your Universal Analytics data on July 1, 2024. This means you still have a lot of time to export your data from Google Analytics and import it into Fathom Analytics.</p>
+<h2 id="save-your-historical-universal-analytics-data-forever">Save your historical Universal Analytics data forever</h2>
+<p>Because Fathom Analytics has forever data retention (meaning, unlike Google, we don’t delete your data), once you’ve imported UA (or GA4) data into Fathom Analytics, you can see that data on your dashboard forever.</p>
+<p>And, as a bonus: our dashboard is much easier to understand and use; we’re a privacy-first company (meaning we’re GDPR compliant), and because we sell software (not data), we have no reason to delete data for paying customers as that’d be bad for business.</p>
+<h3 id="export-universal-analytics-data">Export Universal Analytics data</h3>
+<p>Because time runs out on July 1, 2024, you can export your UA data into Fathom in four simple steps. Thousands of people with billions of pageviews have already used our GA importer to bring the UA and GA4 data into Fathom Analytics.</p>
+<p>The process is simple:</p>
+<ol>
+<li>Connect your Google Analytics account to your Fathom account. This works for Universal Analytics and GA4 properties</li>
+<li>Create a new import with a single GA site or several GA sites</li>
+<li>Select a date range you wish to import</li>
+<li>Click “import”</li>
+</ol>
+<p>That’s it. Our customers have been pleasantly surprised at how quick and easy it’s been to import their GA data into Fathom Analytics.<br />
+“Fathom has an incredible Google Analytics import tool (UA &amp; GA4) with the lowest friction of any import tool I’ve ever used. If you care about your website analytics data, get out of Google Analytics and into Fathom Analytics ASAP. They’ll never delete your data.” Alex Bass</p>
+<p>“All of Google’s pestering about the forced migration to GA4 has served as a great reminder to purge Google Analytics from all my site properties. Thankfully @usefathom has made it super simple to import all my old data before wiping.” Curtis Herbert</p>
+<h3 id="why-choose-fathom-analytics-as-the-best-google-analytics-alternative">Why choose Fathom Analytics as the best Google Analytics alternative</h3>
+<p>Fathom is a privacy-first analytics company that worries about digital privacy laws like GDPR and Schrems II, so you don’t have to.</p>
+<p>Our business model differs from Big Tech because we charge a fair price for our software instead of offering something for free and opaquely monetizing data in creepy or scary ways.</p>
+<p>We offer a 30-day free trial without any restrictions (as in, sign up for a free trial and import all your UA or GA4 data right away). A month will give you plenty of time to see how easy website analytics can be and how Fathom can be an excellent choice for your business and its website. Pricing then starts at just $14/month.</p>
+<p>So start a free 30-day trial today and export your analytics data from Universal Analytics or GA4.</p>
+<h3 id="you-might-also-enjoy-reading">You might also enjoy reading:</h3>
+<ul>
+<li>Building the world’s fastest website analytics</li>
+<li>Someone attacked our company</li>
+<li>Does Laravel Scale?</li>
+</ul>
+<div>
+<p>Paul Jarvis is the co-founder of Fathom Analytics and the co-host of the Above Board podcast.</p>
+</div>
+<div><span>Posted in</span> learn</div>
+</div>
+<p></p>
+<p class="wpss_copy">Content retrieved from: <a href="https://usefathom.com/blog/export-universal-analytics-data" target="_blank" rel="noopener">https://usefathom.com/blog/export-universal-analytics-data</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/can-you-still-export-universal-analytics-data/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Analytics without a cookie banner</title>
+		<link>/analytics-without-a-cookie-banner/</link>
+					<comments>/analytics-without-a-cookie-banner/#respond</comments>
+		
+		<dc:creator><![CDATA[TrackTrendy]]></dc:creator>
+		<pubDate>Wed, 20 Sep 2023 22:44:53 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/analytics-without-a-cookie-banner/</guid>
+
+					<description><![CDATA[No one likes cookie banners, but they are everywhere. For visitors, they are annoying clutter that pops up a dozen times a day. For businesses, they are a potential source of compliance issues. And for marketers, they cause a loss of data- because not every visitor accepts cookies. The good news is: If you use [...]]]></description>
+										<content:encoded><![CDATA[<div>
+<p><span><!--[-->No one likes cookie banners, but they are everywhere. For visitors, they are annoying clutter that pops up a dozen times a day. For businesses, they are a potential source of compliance issues. And for marketers, they cause a loss of data- because not every visitor accepts cookies.<!--]--></span></p>
+<p><span><!--[-->The good news is: If you use Simple Analytics, you don’t need one. Here is why this is a big advantage for your web analytics.<!--]--></span></p>
+<ol>
+<li>Accurate data</li>
+<li>A good complement to traditional solutions</li>
+<li>No compliance headaches</li>
+<li>Clean data without bots</li>
+<li>Ad Blockers are no big deal</li>
+<li>Why we care</li>
+</ol>
+<div>
+<div><span>Michelin chose Simple Analytics</span>Join them</div>
+</div>
+<h2 id="accurate-data"><span><!--[-->Accurate data<!--]--></span></h2>
+<p><span><!--[-->Under EU law and many other national laws, <strong>you cannot place cookies without user consent</strong>. This is why cookie banners are everywhere: websites using cookie-based web analytics tools need consent to write the cookies in the user’s browser.<!--]--></span></p>
+<p><span><!--[-->But, having to display a browser creates an obvious problem for your web analytics: many visitors do not like being tracked and reject cookies. Because traditional web analytics tools are built around cookies, they cannot account for those visitors. In other words, <strong>a large portion of your audience is missing from your data entirely</strong>. <!--]--></span></p>
+<p><span><!--[-->Realistically, you will miss about 20-25% of your website visitors. This can have substantial ramifications. For example, without a complete insight into your audience, there&#8217;s a real risk that your marketing budget could be misallocated.<!--]--></span></p>
+<p><span><!--[-->This is not an issue when using Simple Analytics. Our product does not use cookies or tracking technologies of any kind. So, no cookie banner is needed, and the data includes all visitors.<!--]--></span></p>
+<h2 id="a-good-complement-to-traditional-solutions"><span><!--[-->A good complement to traditional solutions<!--]--></span></h2>
+<p><span><!--[-->Most of our clients rely on Simple Analytics for all of their web analytics. But you can also run Simple Analytics and a traditional cookie-based solution like Google Analytics or Adobe Analytics. <!--]--></span></p>
+<p><span><!--[-->Combining Simple Analytics with cookie-based solutions allows you to <strong>make up for the loss of data</strong> due to the cookie banner. <!--]--></span></p>
+<p><span><!--[-->Running Simple Analytics side by side with another product is really easy: you just need to install our script, and off you go. We have integrations with popular tools such as Google Tag Manager, as well as the option to export your Simple Analytics data in raw and aggregated form.<!--]--></span></p>
+<h2 id="no-compliance-headaches"><span><!--[-->No compliance headaches<!--]--></span></h2>
+<p><span><!--[-->Just having a cookie banner is not enough to comply with the law. The banner must also present choices clearly and link to a clear and exhaustive cookie notice.<!--]--></span></p>
+<p><span><!--[-->Many companies fumble this, and regulators fine some of them as a result. Most companies trust the Content Management Platforms (CMPs) of third parties. But you must still set up the CMP in a compliant way and draft a good cookie notice. In other words, a CMP will not solve compliance issues alone.<!--]--></span></p>
+<p><span><!--[-->Whether you use a CMP or not, cookie banners involve a <strong>trade-off between accuracy and compliance</strong>. Regulators- especially in Europe- want cookie banners that offer genuine, meaningful choices rather than attempting to manipulate users. This kind of design is the most compliant but leads to high opt-out rates. People do not like being tracked and often reject cookies when offered with a transparent choice.<!--]--></span></p>
+<p><span><!--[-->Not needing a cookie banner to begin with solves the problem entirely. And if you use a cookie-based product such as Google Analytics, Simple Analytics can still help you mitigate the loss of data from your cookie banner.<!--]--></span></p>
+<h2 id="clean-data-without-bots"><span><!--[-->Clean data without bots<!--]--></span></h2>
+<p><span><!--[-->Bots such as search engine crawlers or web scrapers can skew your analytics data by inflating your page views. This is why Simple Analytics ensures the quality of your data by <strong>filtering out bot traffic</strong>.<!--]--></span></p>
+<p><span><!--[-->Most bots are filtered out by default by Simple Analytics. Additionally, customers can use the <em>advanced robot tracking</em> feature to filter out bot traffic based on the IP addresses of known bots. Simple Analytics also allows you to <em>exclude traffic from your own devices</em> from your web analytics data.<!--]--></span></p>
+<h2 id="ad-blockers-are-no-big-deal"><span><!--[-->Ad Blockers are no big deal<!--]--></span></h2>
+<p><span><!--[-->Ad blockers are a serious issue for traditional web analytics solutions. Missing ad impressions can affect the quality of the data. Additionally, some ad blockers include anti-tracking mechanisms, which can interfere with analytics tools as well. Quite a few adblocker services block the Google Analytics script, meaning that even if your visitor agrees to be tracked, you won’t see this in your data. This causes inaccurate metrics. <!--]--></span></p>
+<p><span><!--[-->Fortunately, ad blockers do not impact our service as much because Simple Analytics does not rely on trackers or ad impressions for its analytics. Additionally, domain blocks from ad blockers are easily bypassed with Simple Analytics’s <strong>custom domain feature</strong>. Users can redirect traffic to a subdomain and still have their data travel safely via https.<!--]--></span></p>
+<h2 id="why-we-care"><span><!--[-->Why we care<!--]--></span></h2>
+<p><span><!--[-->We believe in an independent web that is friendly to website visitors. This is why we built a privacy-friendly Google Analytics alternative. We provide you with the website insights you need without collecting personal data or using cookies. <!--]--></span></p>
+<p><span><!--[-->You can use Simple Analytics as your standalone website analytics tool or as an add-on to your current analytics tool to get a complete overview. If this resonates with you, feel free to give it a try.<!--]--></span></p>
+</div>
+<p></p>
+<p class="wpss_copy">Content retrieved from: <a href="https://www.simpleanalytics.com/blog/analytics-without-a-cookie-banner" target="_blank" rel="noopener">https://www.simpleanalytics.com/blog/analytics-without-a-cookie-banner</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/analytics-without-a-cookie-banner/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google Analytics Pricing</title>
+		<link>/google-analytics-pricing/</link>
+					<comments>/google-analytics-pricing/#respond</comments>
+		
+		<dc:creator><![CDATA[TrackTrendy]]></dc:creator>
+		<pubDate>Mon, 04 Sep 2023 22:44:26 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/google-analytics-pricing/</guid>
+
+					<description><![CDATA[Google Analytics is a useful tool for understanding website traffic and user behavior. However, Google Analytics’ pricing model might present some challenges or limitations, especially for smaller organizations. Here is all you need to know about Google Analytics’ pricing model and how it suits different types of customers. Is Google Analytics free? How much does [...]]]></description>
+										<content:encoded><![CDATA[<div>
+<p><span><!--[-->Google Analytics is a useful tool for understanding website traffic and user behavior. However, Google Analytics’ pricing model might present some challenges or limitations, especially for smaller organizations. <!--]--></span></p>
+<p><span><!--[-->Here is all you need to know about Google Analytics’ pricing model and how it suits different types of customers.<!--]--></span></p>
+<ol>
+<li>Is Google Analytics free?</li>
+<li>How much does Google 360 cost?</li>
+<li>What about Universal Analytics?</li>
+<li>What are the differences between the free and paid version of GA360?
+<ol>
+<li>Data sampling</li>
+<li>Configuration limitations</li>
+<li>Retention limitation</li>
+<li>Integrations</li>
+<li>Advanced features</li>
+<li>SLAs</li>
+<li>Data freshness</li>
+<li>Customer support</li>
+</ol>
+</li>
+<li>Why you should check alternatives
+<ol>
+<li>Privacy</li>
+<li>Cookie banners cause a loss of data</li>
+<li>A complex UI</li>
+<li>The price tag</li>
+<li>The perfect time to change</li>
+</ol>
+</li>
+<li>Why Simple Analytics is not free</li>
+</ol>
+<h2 id="is-google-analytics-free"><span><!--[-->Is Google Analytics free?<!--]--></span></h2>
+<p><span><!--[-->Google Analytics comes with two plans: a free plan and a premium one called Google 360.<!--]--></span></p>
+<p><span><!--[-->The free plan is free. Well, kind of. Google Analytics collects visitor data and analyzes it to provide insight into your website’s traffic and performance. Google then re-uses these data to power its extensive ad tech ecosystem. Like other Google services, it is a privacy-invasive tool that customers <strong>pay with their data</strong>.<!--]--></span></p>
+<p><span><!--[-->Google Analytics also features a premium plan that caters to large businesses. This plan offers extra features but comes with a big price tag.<!--]--></span></p>
+<h2 id="how-much-does-google-360-cost"><span><!--[-->How much does Google 360 cost?<!--]--></span></h2>
+<p><span><!--[-->Unlike Universal Analytics 360, GA4 360 follows a <strong>usage-based model</strong> for Google 360.<!--]--></span></p>
+<p><span><!--[-->Google does not publicize its pricing criteria, but Google 360 reportedly has an entry fee of $50.000 per year with additional <strong>usage-based fees</strong>. Enterprise-level customers typically negotiate the agreement directly with Google’s sales team, leading to different prices on a case-by-case basis.<!--]--></span></p>
+<p><span><!--[-->Overall, Google Analytics 4 is a powerful but pricey product aimed at enterprise-level customers.<!--]--></span></p>
+<h2 id="what-about-universal-analytics"><span><!--[-->What about Universal Analytics?<!--]--></span></h2>
+<p><span><!--[-->Google is phasing out UA. UA is no longer supported, and UA360 will stop being supported in July 2024. If you still use UA360, you must transition to GA4 or move to a different service altogether.<!--]--></span></p>
+<h2 id="what-are-the-differences-between-the-free-and-paid-version-of-ga360"><span><!--[-->What are the differences between the free and paid version of GA360?<!--]--></span></h2>
+<h3 id="data-sampling"><span><!--[-->Data sampling<!--]--></span></h3>
+<p><span><!--[-->Before deprecation, Universal Analytics recorded only 10 million monthly events per property. A Google 360 subscription was required to record events beyond the threshold.<!--]--></span></p>
+<p><span><!--[-->Google Analytics 4 is different. The free version&#8217;s explorations use <strong>data sampling to examine the past 10 million events</strong>, which degrades the data quality.<!--]--></span></p>
+<p><span><!--[-->On the other hand, Google 360 relies on data sampling for exploration over the one billion events threshold. Paying customers can manually turn data sampling on and off as needed to speed up the processing.<!--]--></span></p>
+<p><span><!--[-->In other words, UA&#8217;s old event limit is now a <strong>data sampling threshold</strong>. What does this mean in practice?<!--]--></span></p>
+<p><span><!--[-->Data sampling is a technique that makes data analysis easier at the cost of some accuracy. Imagine having to count all the trees in a forest: you could count them one by one or count the trees in an acre and work it from there. This is what Google Analytics does when sampling data.<!--]--></span></p>
+<p><span><!--[-->The quality of the sampled data depends on the sample size. Suppose you only exceed 10M events by a small margin. In that case, GA will use large sample sizes and give you fairly reliable data, while higher volumes of traffic lead to smaller sample sizes and less accurate data.<!--]--></span></p>
+<p><span><!--[-->So, the free GA plan is probably fine if you don’t exceed the 10M events threshold by a large amount. However, data sampling can skew your results if you analyze large traffic volumes.<!--]--></span></p>
+<p><span><!--[-->Also, note that some interactions that did not count as events in UA are recorded as events in GA4 due to the new attribution model. This change effectively <strong>inflates event count in GA4</strong>: organizations that were below UA&#8217;s old event traffic threshold may find themselves above the data sampling threshold for GA4, especially if they analyze a lot of app traffic.<!--]--></span></p>
+<h3 id="configuration-limitations"><span><!--[-->Configuration limitations<!--]--></span></h3>
+<p><span><!--[-->The free version of GA has other quantitative limitations, such as a limit on the number of audiences and conversions that can be configured per property.<!--]--></span></p>
+<h3 id="retention-limitation"><span><!--[-->Retention limitation<!--]--></span></h3>
+<p><span><!--[-->The free version of GA4 has a 14-month <strong>retention limitation for all data and metrics</strong>. GA360 still has the 14-month retention limit for properties, but it allows storing other events for up to 50 months.<!--]--></span></p>
+<p><span><!--[-->Retention limitations are a major drawback of the free GA4 experience, as customers will be severely limited in their ability to analyze long-term trends.<!--]--></span></p>
+<h3 id="integrations"><span><!--[-->Integrations<!--]--></span></h3>
+<p><span><!--[-->Integrations are a big selling point for GA360.<!--]--></span></p>
+<p><span><!--[-->The free version is compatible with a handful of Google Services (e.g., Google Ads, Adsense, Ad Exchange, Search Console), and that’s it. GA360 has many more integrations, including Big Query, Salesforce, Search Ads 360, Display Video 360, and more.<!--]--></span></p>
+<p><span><!--[-->Big Query is an especially important integration, as Google’s serverless data warehouse allows companies to speed up queries on large data sets.<!--]--></span></p>
+<h3 id="advanced-features"><span><!--[-->Advanced features<!--]--></span></h3>
+<p><span><!--[-->Google 360 includes features such as a data-driven attribution model and custom funnels. These advanced features cater to enterprise-level customers with a full marketing team on board.<!--]--></span></p>
+<h3 id="slas"><span><!--[-->SLAs<!--]--></span></h3>
+<p><span><!--[-->Only GA360 offers <strong>service-level agreements</strong> in its Terms of Service. Free customers are likely to experience more downtime. They should not count on the service being restored promptly after disruptions, as the company will likely focus on paying customers first to honor SLAs.<!--]--></span></p>
+<h3 id="data-freshness"><span><!--[-->Data freshness<!--]--></span></h3>
+<p><span><!--[-->GA 360 refreshes data and reports more often than the free version. This is not likely to impact most customers but might be useful for those who want to get their real-time insights.<!--]--></span></p>
+<h3 id="customer-support"><span><!--[-->Customer support<!--]--></span></h3>
+<p><span><!--[-->Only Google 360 customers enjoy customer support. Free users can rely on Google’s technical documentation and ask the GA community for help. Still, it is ultimately up to them to solve any issues they may experience with the service.<!--]--></span></p>
+<p><span><!--[-->It is worth noting that most of the information on Google Analytics’ community forums refers to UA and might be outdated.<!--]--></span></p>
+<h2 id="why-you-should-check-alternatives"><span><!--[-->Why you should check alternatives<!--]--></span></h2>
+<h3 id="privacy"><span><!--[-->Privacy<!--]--></span></h3>
+<p><span><!--[-->Like UA, GA4 is built around cookies. While first-party cookies are better than third-party cookies, they are still <strong>an intrinsically invasive technology</strong>.<!--]--></span></p>
+<p><span><!--[-->Companies are moving towards privacy-friendly, cookie-free solutions as the general audience becomes increasingly concerned about online tracking.<!--]--></span></p>
+<p><span><!--[-->In addition, governments are cracking down on services like Google Analytics. Numerous EU governments (like France &amp; Italy) have already banned the use of Google Analytics. You can check whether Google Analytics is banned in your country here.<!--]--></span></p>
+<h3 id="cookie-banners-cause-a-loss-of-data"><span><!--[-->Cookie banners cause a loss of data<!--]--></span></h3>
+<p><span><!--[--><strong>Under EU law, analytics cookies require user consent</strong>. This means that visitors must be presented with the option to refuse cookies.<!--]--></span></p>
+<p><span><!--[-->Unfortunately for companies, <strong>people do not like being tracked</strong> and frequently decline cookies when presented with a transparent choice. This leads to data loss for GA customers: users who decline cookies are practically invisible in the data.<!--]--></span></p>
+<p><span><!--[-->Cookie-free web analytics services such as Simple Analytics can solve this problem and make these visitors visible again. They can also be <strong>combined with GA</strong> or other cookie-based services to mitigate the data loss from cookie banners.<!--]--></span></p>
+<h3 id="a-complex-ui"><span><!--[-->A complex UI<!--]--></span></h3>
+<p><span><!--[-->Universal Analytics was known for its unintuitive UI, and Google Analytics 4 is even worse. The interface is cluttered with advanced features that most users do not need, making navigation difficult even for users familiar with UA. Better options exist when it comes to UI: This is what the Simple Analytics dashboard looks like.<!--]--></span></p>
+<p><img decoding="async" src="/wp-content/uploads/2023/12/google_analytics_dashboard_vs_simple_analytics_dashboard_47321d4cdc.png" alt="google-analytics-dashboard-vs-simple-analytics-dashboard.png" /></p>
+<h3 id="the-price-tag"><span><!--[-->The price tag<!--]--></span></h3>
+<p><span><!--[-->Let’s be real- $50.000 is not exactly peanuts for many organizations. Some small or medium-sized businesses may find the restrictions of the free GA experience problematic while not being able to afford GA360’s entry-level prices. These companies would do well to look for a cheaper alternative.<!--]--></span></p>
+<h3 id="the-perfect-time-to-change"><span><!--[-->The perfect time to change<!--]--></span></h3>
+<p><span><!--[-->Right now, organizations need to move to a different service whether they like it or not. UA properties are already deprecated and UA360 properties will soon be. If you are a UA360 customer, this is a great time to try a privacy-friendly service (and by the way, Simple Analytics allows you to <strong>carry over all your GA data</strong>).<!--]--></span></p>
+<h2 id="why-simple-analytics-is-not-free"><span><!--[-->Why Simple Analytics is not free<!--]--></span></h2>
+<p><span><!--[-->As we explained, the “free” version of Google Analytics is not exactly free: <strong>your visitors pay for it with their data</strong>.<!--]--></span></p>
+<p><span><!--[-->We at Simple Analytics dislike the pay-with-your-data business model that is so prevalent today. Privacy is a right, and personal data are not a commodity.<!--]--></span></p>
+<p><span><!--[-->We store your visitor data securely and don’t sell it to third parties for advertising purposes. This is why Simple Analytics charges a fee &#8211; that is affordable for everyone, starting at as little as €9 per month for smaller organizations.<!--]--></span></p>
+<p><span><!--[-->If this resonates with you, feel free to give us a spin.<!--]--></span></p>
+</div>
+<p></p>
+<p class="wpss_copy">Content retrieved from: <a href="https://www.simpleanalytics.com/blog/google-analytics-pricing" target="_blank" rel="noopener">https://www.simpleanalytics.com/blog/google-analytics-pricing</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/google-analytics-pricing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
