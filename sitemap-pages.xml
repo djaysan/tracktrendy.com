@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/wp-content/plugins/squirrly-seo/view/assets/css/sitemap.xsl"?>
-<!-- generated-on="2024-03-27T13:43:57+00:00" -->
+<!-- generated-on="2024-03-28T11:03:08+00:00" -->
 <!-- generator="Squirrly SEO Sitemap" -->
 <!-- generator-url="https://wordpress.org/plugins/squirrly-seo/" -->
 
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" >
+	<url>
+		<loc>/error-404/</loc>
+		<lastmod>2024-03-27T21:00:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
 	<url>
 		<loc>/blog/</loc>
 		<lastmod>2023-08-22T21:59:20+00:00</lastmod>
@@ -19,7 +25,7 @@
 	</url>
 	<url>
 		<loc>/why-us/</loc>
-		<lastmod>2023-08-22T17:06:56+00:00</lastmod>
+		<lastmod>2024-03-28T11:02:22+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
@@ -28,7 +34,7 @@
 	</url>
 	<url>
 		<loc>/pricing/</loc>
-		<lastmod>2023-08-26T22:18:58+00:00</lastmod>
+		<lastmod>2024-03-28T11:00:30+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 		<image:image>
